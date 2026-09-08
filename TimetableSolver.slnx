@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TimetableSolver/TimetableSolver.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TimetableSolver.Tests/TimetableSolver.Tests.csproj" />
+  </Folder>
+</Solution>

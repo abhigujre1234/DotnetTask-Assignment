@@ -1,0 +1,164 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "School Timetable Solver API",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Timetable/dataset": {
+      "get": {
+        "tags": [
+          "Timetable"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Timetable/load-data": {
+      "post": {
+        "tags": [
+          "Timetable"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Timetable/generate": {
+      "post": {
+        "tags": [
+          "Timetable"
+        ],
+        "parameters": [
+          {
+            "name": "forceRecompute",
+            "in": "query",
+            "schema": {
+              "type": "boolean",
+              "default": false
+            }
+          },
+          {
+            "name": "timeoutSeconds",
+            "in": "query",
+            "schema": {
+              "type": "number",
+              "format": "double",
+              "default": 90
+            }
+          },
+          {
+            "name": "sectionId",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Timetable/sections": {
+      "get": {
+        "tags": [
+          "Timetable"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Timetable/sections/{id}": {
+      "get": {
+        "tags": [
+          "Timetable"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Timetable/teachers": {
+      "get": {
+        "tags": [
+          "Timetable"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Timetable/teachers/{id}": {
+      "get": {
+        "tags": [
+          "Timetable"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Timetable/summary": {
+      "get": {
+        "tags": [
+          "Timetable"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Timetable/conflicts": {
+      "get": {
+        "tags": [
+          "Timetable"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

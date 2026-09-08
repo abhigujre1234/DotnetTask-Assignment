@@ -1,0 +1,2810 @@
+{
+  "version": 4,
+  "targets": {
+    "net8.0": {
+      "Google.OrTools/9.15.6755": {
+        "type": "package",
+        "dependencies": {
+          "Google.OrTools.runtime.linux-arm64": "9.15.6755",
+          "Google.OrTools.runtime.linux-x64": "9.15.6755",
+          "Google.OrTools.runtime.osx-arm64": "9.15.6755",
+          "Google.OrTools.runtime.osx-x64": "9.15.6755",
+          "Google.OrTools.runtime.win-x64": "9.15.6755",
+          "Google.Protobuf": "3.33.1"
+        },
+        "compile": {
+          "lib/net8.0/Google.OrTools.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Google.OrTools.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Google.OrTools.runtime.linux-arm64/9.15.6755": {
+        "type": "package",
+        "runtimeTargets": {
+          "runtimes/linux-arm64/native/google-ortools-native.so": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libCbc.so.2": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libCbcSolver.so.2": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libCgl.so.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libClp.so.1": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libClpSolver.so.1": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libCoinUtils.so.2": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libOsi.so.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libOsiCbc.so.2": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libOsiClp.so.1": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_base.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_city.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_civil_time.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_cord.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_cord_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_cordz_functions.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_cordz_handle.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_cordz_info.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_crc32c.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_crc_cord_state.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_crc_cpu_detect.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_crc_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_debugging_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_decode_rust_punycode.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_demangle_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_demangle_rust.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_die_if_null.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_examine_stack.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_exponential_biased.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_flags_commandlineflag.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_flags_commandlineflag_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_flags_config.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_flags_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_flags_marshalling.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_flags_parse.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_flags_private_handle_accessor.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_flags_program_name.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_flags_reflection.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_flags_usage.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_flags_usage_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_graphcycles_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_hash.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_hashtablez_sampler.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_int128.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_kernel_timeout_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_leak_check.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_log_entry.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_log_flags.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_log_globals.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_log_initialize.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_log_internal_check_op.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_log_internal_conditions.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_log_internal_fnmatch.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_log_internal_format.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_log_internal_globals.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_log_internal_log_sink_set.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_log_internal_message.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_log_internal_nullguard.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_log_internal_proto.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_log_internal_structured_proto.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_log_severity.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_log_sink.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_malloc_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_random_distributions.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_random_internal_entropy_pool.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_random_internal_platform.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_random_internal_randen.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_random_internal_randen_hwaes.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_random_internal_randen_hwaes_impl.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_random_internal_randen_slow.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_random_internal_seed_material.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_random_seed_gen_exception.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_random_seed_sequences.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_raw_hash_set.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_raw_logging_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_spinlock_wait.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_stacktrace.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_status.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_statusor.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_str_format_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_strerror.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_string_view.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_strings.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_strings_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_symbolize.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_synchronization.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_throw_delegate.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_time.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_time_zone.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_tracing_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_utf8_for_code_point.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libabsl_vlog_config_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libbz2.so.1": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libhighs.so.1": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libortools.so.9": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libprotobuf.so.33.1.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libre2.so.11": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libscip.so.10.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libutf8_validity.so.33.1.0": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libz.so.1": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          }
+        }
+      },
+      "Google.OrTools.runtime.linux-x64/9.15.6755": {
+        "type": "package",
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/google-ortools-native.so": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libCbc.so.2": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libCbcSolver.so.2": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libCgl.so.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libClp.so.1": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libClpSolver.so.1": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libCoinUtils.so.2": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libOsi.so.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libOsiCbc.so.2": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libOsiClp.so.1": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_base.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_city.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_civil_time.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_cord.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_cord_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_cordz_functions.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_cordz_handle.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_cordz_info.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_crc32c.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_crc_cord_state.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_crc_cpu_detect.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_crc_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_debugging_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_decode_rust_punycode.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_demangle_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_demangle_rust.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_die_if_null.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_examine_stack.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_exponential_biased.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_flags_commandlineflag.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_flags_commandlineflag_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_flags_config.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_flags_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_flags_marshalling.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_flags_parse.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_flags_private_handle_accessor.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_flags_program_name.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_flags_reflection.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_flags_usage.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_flags_usage_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_graphcycles_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_hash.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_hashtablez_sampler.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_int128.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_kernel_timeout_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_leak_check.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_log_entry.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_log_flags.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_log_globals.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_log_initialize.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_log_internal_check_op.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_log_internal_conditions.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_log_internal_fnmatch.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_log_internal_format.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_log_internal_globals.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_log_internal_log_sink_set.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_log_internal_message.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_log_internal_nullguard.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_log_internal_proto.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_log_internal_structured_proto.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_log_severity.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_log_sink.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_malloc_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_random_distributions.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_random_internal_entropy_pool.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_random_internal_platform.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_random_internal_randen.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_random_internal_randen_hwaes.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_random_internal_randen_hwaes_impl.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_random_internal_randen_slow.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_random_internal_seed_material.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_random_seed_gen_exception.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_random_seed_sequences.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_raw_hash_set.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_raw_logging_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_spinlock_wait.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_stacktrace.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_status.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_statusor.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_str_format_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_strerror.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_string_view.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_strings.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_strings_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_symbolize.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_synchronization.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_throw_delegate.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_time.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_time_zone.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_tracing_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_utf8_for_code_point.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libabsl_vlog_config_internal.so.2508.0.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libbz2.so.1": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libhighs.so.1": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libortools.so.9": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libprotobuf.so.33.1.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libre2.so.11": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libscip.so.10.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libutf8_validity.so.33.1.0": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libz.so.1": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          }
+        }
+      },
+      "Google.OrTools.runtime.osx-arm64/9.15.6755": {
+        "type": "package",
+        "runtimeTargets": {
+          "runtimes/osx-arm64/native/google-ortools-native.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libCbc.2.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libCbcSolver.2.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libCgl.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libClp.1.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libClpSolver.1.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libCoinUtils.2.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libOsi.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libOsiCbc.2.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libOsiClp.1.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_base.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_city.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_civil_time.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_cord.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_cord_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_cordz_functions.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_cordz_handle.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_cordz_info.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_crc32c.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_crc_cord_state.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_crc_cpu_detect.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_crc_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_debugging_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_decode_rust_punycode.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_demangle_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_demangle_rust.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_die_if_null.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_examine_stack.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_exponential_biased.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_flags_commandlineflag.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_flags_commandlineflag_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_flags_config.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_flags_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_flags_marshalling.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_flags_parse.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_flags_private_handle_accessor.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_flags_program_name.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_flags_reflection.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_flags_usage.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_flags_usage_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_graphcycles_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_hash.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_hashtablez_sampler.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_int128.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_kernel_timeout_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_leak_check.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_log_entry.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_log_flags.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_log_globals.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_log_initialize.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_log_internal_check_op.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_log_internal_conditions.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_log_internal_fnmatch.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_log_internal_format.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_log_internal_globals.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_log_internal_log_sink_set.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_log_internal_message.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_log_internal_nullguard.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_log_internal_proto.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_log_internal_structured_proto.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_log_severity.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_log_sink.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_malloc_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_random_distributions.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_random_internal_entropy_pool.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_random_internal_platform.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_random_internal_randen.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_random_internal_randen_hwaes.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_random_internal_randen_hwaes_impl.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_random_internal_randen_slow.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_random_internal_seed_material.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_random_seed_gen_exception.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_random_seed_sequences.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_raw_hash_set.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_raw_logging_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_spinlock_wait.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_stacktrace.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_status.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_statusor.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_str_format_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_strerror.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_string_view.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_strings.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_strings_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_symbolize.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_synchronization.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_throw_delegate.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_time.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_time_zone.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_tracing_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_utf8_for_code_point.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libabsl_vlog_config_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libbz2.1.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libhighs.1.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libortools.9.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libprotobuf.33.1.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libre2.11.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libscip.10.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libutf8_validity.33.1.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/libz.1.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          }
+        }
+      },
+      "Google.OrTools.runtime.osx-x64/9.15.6755": {
+        "type": "package",
+        "runtimeTargets": {
+          "runtimes/osx-x64/native/google-ortools-native.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libCbc.2.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libCbcSolver.2.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libCgl.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libClp.1.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libClpSolver.1.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libCoinUtils.2.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libOsi.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libOsiCbc.2.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libOsiClp.1.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_base.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_city.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_civil_time.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_cord.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_cord_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_cordz_functions.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_cordz_handle.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_cordz_info.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_crc32c.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_crc_cord_state.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_crc_cpu_detect.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_crc_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_debugging_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_decode_rust_punycode.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_demangle_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_demangle_rust.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_die_if_null.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_examine_stack.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_exponential_biased.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_flags_commandlineflag.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_flags_commandlineflag_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_flags_config.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_flags_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_flags_marshalling.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_flags_parse.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_flags_private_handle_accessor.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_flags_program_name.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_flags_reflection.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_flags_usage.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_flags_usage_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_graphcycles_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_hash.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_hashtablez_sampler.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_int128.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_kernel_timeout_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_leak_check.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_log_entry.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_log_flags.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_log_globals.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_log_initialize.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_log_internal_check_op.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_log_internal_conditions.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_log_internal_fnmatch.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_log_internal_format.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_log_internal_globals.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_log_internal_log_sink_set.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_log_internal_message.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_log_internal_nullguard.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_log_internal_proto.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_log_internal_structured_proto.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_log_severity.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_log_sink.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_malloc_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_random_distributions.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_random_internal_entropy_pool.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_random_internal_platform.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_random_internal_randen.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_random_internal_randen_hwaes.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_random_internal_randen_hwaes_impl.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_random_internal_randen_slow.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_random_internal_seed_material.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_random_seed_gen_exception.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_random_seed_sequences.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_raw_hash_set.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_raw_logging_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_spinlock_wait.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_stacktrace.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_status.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_statusor.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_str_format_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_strerror.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_string_view.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_strings.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_strings_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_symbolize.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_synchronization.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_throw_delegate.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_time.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_time_zone.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_tracing_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_utf8_for_code_point.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libabsl_vlog_config_internal.2508.0.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libbz2.1.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libhighs.1.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libortools.9.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libprotobuf.33.1.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libre2.11.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libscip.10.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libutf8_validity.33.1.0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libz.1.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          }
+        }
+      },
+      "Google.OrTools.runtime.win-x64/9.15.6755": {
+        "type": "package",
+        "runtimeTargets": {
+          "runtimes/win-x64/native/abseil_dll.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/bz2.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/google-ortools-native.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/highs.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/libprotobuf.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/libscip.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/libutf8_validity.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/ortools.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/re2.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/zlib1.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          }
+        }
+      },
+      "Google.Protobuf/3.33.1": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.OpenApi/8.0.30": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.OpenApi": "1.4.3"
+        },
+        "compile": {
+          "lib/net8.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.Extensions.ApiDescription.Server.props": {},
+          "build/Microsoft.Extensions.ApiDescription.Server.targets": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.props": {},
+          "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.targets": {}
+        }
+      },
+      "Microsoft.OpenApi/1.6.14": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore/6.6.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.ApiDescription.Server": "6.0.5",
+          "Swashbuckle.AspNetCore.Swagger": "6.6.2",
+          "Swashbuckle.AspNetCore.SwaggerGen": "6.6.2",
+          "Swashbuckle.AspNetCore.SwaggerUI": "6.6.2"
+        },
+        "build": {
+          "build/Swashbuckle.AspNetCore.props": {}
+        }
+      },
+      "Swashbuckle.AspNetCore.Swagger/6.6.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.OpenApi": "1.6.14"
+        },
+        "compile": {
+          "lib/net8.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "Swashbuckle.AspNetCore.SwaggerGen/6.6.2": {
+        "type": "package",
+        "dependencies": {
+          "Swashbuckle.AspNetCore.Swagger": "6.6.2"
+        },
+        "compile": {
+          "lib/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerUI/6.6.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Google.OrTools/9.15.6755": {
+      "sha512": "sbPJ7CUwJb3ppbjASJVfdHC0+a7LTTMX1v8J5nERYdcLKkFUZSM3MB/Ck13VsmuWeP0LuE3C4U3WLHH49LHRMQ==",
+      "type": "package",
+      "path": "google.ortools/9.15.6755",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/README.md",
+        "content/bop/bop_parameters.proto",
+        "content/constraint_solver/assignment.proto",
+        "content/constraint_solver/demon_profiler.proto",
+        "content/constraint_solver/routing_enums.proto",
+        "content/constraint_solver/routing_heuristic_parameters.proto",
+        "content/constraint_solver/routing_ils.proto",
+        "content/constraint_solver/routing_parameters.proto",
+        "content/constraint_solver/search_limit.proto",
+        "content/constraint_solver/search_stats.proto",
+        "content/constraint_solver/solver_parameters.proto",
+        "content/glop/parameters.proto",
+        "content/graph/flow_problem.proto",
+        "content/linear_solver/linear_solver.proto",
+        "content/orLogo.png",
+        "content/pdlp/solve_log.proto",
+        "content/pdlp/solvers.proto",
+        "content/sat/boolean_problem.proto",
+        "content/sat/cp_model.proto",
+        "content/sat/cp_model_service.proto",
+        "content/sat/lrat.proto",
+        "content/sat/routes_support_graph.proto",
+        "content/sat/sat_parameters.proto",
+        "content/util/int128.proto",
+        "content/util/optional_boolean.proto",
+        "google.ortools.9.15.6755.nupkg.sha512",
+        "google.ortools.nuspec",
+        "lib/net462/Google.OrTools.dll",
+        "lib/net462/Google.OrTools.xml",
+        "lib/net8.0/Google.OrTools.dll",
+        "lib/net8.0/Google.OrTools.xml"
+      ]
+    },
+    "Google.OrTools.runtime.linux-arm64/9.15.6755": {
+      "sha512": "7YaKuI4q1uU9ibelXXawY7zx/5hQ1vMBKLFFK6kQRgO082wMlHx6NmfMaTFZA94b4D4xbFaA7TGAehoEbWciEg==",
+      "type": "package",
+      "path": "google.ortools.runtime.linux-arm64/9.15.6755",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/README.md",
+        "content/orLogo.png",
+        "google.ortools.runtime.linux-arm64.9.15.6755.nupkg.sha512",
+        "google.ortools.runtime.linux-arm64.nuspec",
+        "runtimes/linux-arm64/native/google-ortools-native.so",
+        "runtimes/linux-arm64/native/libCbc.so.2",
+        "runtimes/linux-arm64/native/libCbcSolver.so.2",
+        "runtimes/linux-arm64/native/libCgl.so.0",
+        "runtimes/linux-arm64/native/libClp.so.1",
+        "runtimes/linux-arm64/native/libClpSolver.so.1",
+        "runtimes/linux-arm64/native/libCoinUtils.so.2",
+        "runtimes/linux-arm64/native/libOsi.so.0",
+        "runtimes/linux-arm64/native/libOsiCbc.so.2",
+        "runtimes/linux-arm64/native/libOsiClp.so.1",
+        "runtimes/linux-arm64/native/libabsl_base.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_city.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_civil_time.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_cord.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_cord_internal.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_cordz_functions.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_cordz_handle.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_cordz_info.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_crc32c.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_crc_cord_state.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_crc_cpu_detect.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_crc_internal.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_debugging_internal.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_decode_rust_punycode.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_demangle_internal.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_demangle_rust.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_die_if_null.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_examine_stack.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_exponential_biased.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_flags_commandlineflag.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_flags_commandlineflag_internal.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_flags_config.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_flags_internal.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_flags_marshalling.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_flags_parse.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_flags_private_handle_accessor.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_flags_program_name.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_flags_reflection.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_flags_usage.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_flags_usage_internal.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_graphcycles_internal.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_hash.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_hashtablez_sampler.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_int128.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_kernel_timeout_internal.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_leak_check.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_log_entry.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_log_flags.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_log_globals.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_log_initialize.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_log_internal_check_op.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_log_internal_conditions.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_log_internal_fnmatch.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_log_internal_format.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_log_internal_globals.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_log_internal_log_sink_set.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_log_internal_message.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_log_internal_nullguard.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_log_internal_proto.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_log_internal_structured_proto.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_log_severity.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_log_sink.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_malloc_internal.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_random_distributions.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_random_internal_entropy_pool.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_random_internal_platform.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_random_internal_randen.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_random_internal_randen_hwaes.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_random_internal_randen_hwaes_impl.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_random_internal_randen_slow.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_random_internal_seed_material.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_random_seed_gen_exception.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_random_seed_sequences.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_raw_hash_set.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_raw_logging_internal.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_spinlock_wait.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_stacktrace.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_status.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_statusor.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_str_format_internal.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_strerror.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_string_view.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_strings.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_strings_internal.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_symbolize.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_synchronization.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_throw_delegate.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_time.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_time_zone.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_tracing_internal.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_utf8_for_code_point.so.2508.0.0",
+        "runtimes/linux-arm64/native/libabsl_vlog_config_internal.so.2508.0.0",
+        "runtimes/linux-arm64/native/libbz2.so.1",
+        "runtimes/linux-arm64/native/libhighs.so.1",
+        "runtimes/linux-arm64/native/libortools.so.9",
+        "runtimes/linux-arm64/native/libprotobuf.so.33.1.0",
+        "runtimes/linux-arm64/native/libre2.so.11",
+        "runtimes/linux-arm64/native/libscip.so.10.0",
+        "runtimes/linux-arm64/native/libutf8_validity.so.33.1.0",
+        "runtimes/linux-arm64/native/libz.so.1"
+      ]
+    },
+    "Google.OrTools.runtime.linux-x64/9.15.6755": {
+      "sha512": "RupvZKKPXdUCWXdGFo8COXcp4YiQIjS5Bhlh9bVRWZqB1RjtVGQFscEwtN6wTZEjUjb49sE0lNo784W/LjQFHg==",
+      "type": "package",
+      "path": "google.ortools.runtime.linux-x64/9.15.6755",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/README.md",
+        "content/orLogo.png",
+        "google.ortools.runtime.linux-x64.9.15.6755.nupkg.sha512",
+        "google.ortools.runtime.linux-x64.nuspec",
+        "runtimes/linux-x64/native/google-ortools-native.so",
+        "runtimes/linux-x64/native/libCbc.so.2",
+        "runtimes/linux-x64/native/libCbcSolver.so.2",
+        "runtimes/linux-x64/native/libCgl.so.0",
+        "runtimes/linux-x64/native/libClp.so.1",
+        "runtimes/linux-x64/native/libClpSolver.so.1",
+        "runtimes/linux-x64/native/libCoinUtils.so.2",
+        "runtimes/linux-x64/native/libOsi.so.0",
+        "runtimes/linux-x64/native/libOsiCbc.so.2",
+        "runtimes/linux-x64/native/libOsiClp.so.1",
+        "runtimes/linux-x64/native/libabsl_base.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_city.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_civil_time.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_cord.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_cord_internal.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_cordz_functions.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_cordz_handle.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_cordz_info.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_crc32c.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_crc_cord_state.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_crc_cpu_detect.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_crc_internal.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_debugging_internal.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_decode_rust_punycode.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_demangle_internal.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_demangle_rust.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_die_if_null.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_examine_stack.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_exponential_biased.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_flags_commandlineflag.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_flags_commandlineflag_internal.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_flags_config.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_flags_internal.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_flags_marshalling.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_flags_parse.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_flags_private_handle_accessor.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_flags_program_name.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_flags_reflection.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_flags_usage.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_flags_usage_internal.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_graphcycles_internal.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_hash.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_hashtablez_sampler.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_int128.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_kernel_timeout_internal.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_leak_check.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_log_entry.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_log_flags.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_log_globals.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_log_initialize.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_log_internal_check_op.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_log_internal_conditions.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_log_internal_fnmatch.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_log_internal_format.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_log_internal_globals.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_log_internal_log_sink_set.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_log_internal_message.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_log_internal_nullguard.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_log_internal_proto.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_log_internal_structured_proto.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_log_severity.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_log_sink.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_malloc_internal.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_random_distributions.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_random_internal_entropy_pool.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_random_internal_platform.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_random_internal_randen.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_random_internal_randen_hwaes.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_random_internal_randen_hwaes_impl.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_random_internal_randen_slow.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_random_internal_seed_material.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_random_seed_gen_exception.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_random_seed_sequences.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_raw_hash_set.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_raw_logging_internal.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_spinlock_wait.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_stacktrace.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_status.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_statusor.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_str_format_internal.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_strerror.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_string_view.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_strings.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_strings_internal.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_symbolize.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_synchronization.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_throw_delegate.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_time.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_time_zone.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_tracing_internal.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_utf8_for_code_point.so.2508.0.0",
+        "runtimes/linux-x64/native/libabsl_vlog_config_internal.so.2508.0.0",
+        "runtimes/linux-x64/native/libbz2.so.1",
+        "runtimes/linux-x64/native/libhighs.so.1",
+        "runtimes/linux-x64/native/libortools.so.9",
+        "runtimes/linux-x64/native/libprotobuf.so.33.1.0",
+        "runtimes/linux-x64/native/libre2.so.11",
+        "runtimes/linux-x64/native/libscip.so.10.0",
+        "runtimes/linux-x64/native/libutf8_validity.so.33.1.0",
+        "runtimes/linux-x64/native/libz.so.1"
+      ]
+    },
+    "Google.OrTools.runtime.osx-arm64/9.15.6755": {
+      "sha512": "WJw1KPoOi3BWmf6sqCMi8kDmjifuA6Bw/UC6He7jnHRFIixtLZ1wCSIiG4droej7HQI1PiNVTRb82udw9ilS7g==",
+      "type": "package",
+      "path": "google.ortools.runtime.osx-arm64/9.15.6755",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/README.md",
+        "content/orLogo.png",
+        "google.ortools.runtime.osx-arm64.9.15.6755.nupkg.sha512",
+        "google.ortools.runtime.osx-arm64.nuspec",
+        "runtimes/osx-arm64/native/google-ortools-native.dylib",
+        "runtimes/osx-arm64/native/libCbc.2.dylib",
+        "runtimes/osx-arm64/native/libCbcSolver.2.dylib",
+        "runtimes/osx-arm64/native/libCgl.0.dylib",
+        "runtimes/osx-arm64/native/libClp.1.dylib",
+        "runtimes/osx-arm64/native/libClpSolver.1.dylib",
+        "runtimes/osx-arm64/native/libCoinUtils.2.dylib",
+        "runtimes/osx-arm64/native/libOsi.0.dylib",
+        "runtimes/osx-arm64/native/libOsiCbc.2.dylib",
+        "runtimes/osx-arm64/native/libOsiClp.1.dylib",
+        "runtimes/osx-arm64/native/libabsl_base.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_city.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_civil_time.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_cord.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_cord_internal.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_cordz_functions.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_cordz_handle.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_cordz_info.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_crc32c.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_crc_cord_state.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_crc_cpu_detect.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_crc_internal.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_debugging_internal.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_decode_rust_punycode.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_demangle_internal.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_demangle_rust.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_die_if_null.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_examine_stack.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_exponential_biased.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_flags_commandlineflag.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_flags_commandlineflag_internal.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_flags_config.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_flags_internal.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_flags_marshalling.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_flags_parse.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_flags_private_handle_accessor.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_flags_program_name.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_flags_reflection.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_flags_usage.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_flags_usage_internal.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_graphcycles_internal.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_hash.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_hashtablez_sampler.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_int128.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_kernel_timeout_internal.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_leak_check.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_log_entry.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_log_flags.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_log_globals.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_log_initialize.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_log_internal_check_op.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_log_internal_conditions.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_log_internal_fnmatch.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_log_internal_format.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_log_internal_globals.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_log_internal_log_sink_set.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_log_internal_message.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_log_internal_nullguard.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_log_internal_proto.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_log_internal_structured_proto.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_log_severity.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_log_sink.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_malloc_internal.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_random_distributions.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_random_internal_entropy_pool.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_random_internal_platform.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_random_internal_randen.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_random_internal_randen_hwaes.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_random_internal_randen_hwaes_impl.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_random_internal_randen_slow.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_random_internal_seed_material.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_random_seed_gen_exception.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_random_seed_sequences.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_raw_hash_set.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_raw_logging_internal.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_spinlock_wait.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_stacktrace.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_status.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_statusor.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_str_format_internal.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_strerror.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_string_view.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_strings.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_strings_internal.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_symbolize.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_synchronization.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_throw_delegate.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_time.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_time_zone.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_tracing_internal.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_utf8_for_code_point.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libabsl_vlog_config_internal.2508.0.0.dylib",
+        "runtimes/osx-arm64/native/libbz2.1.dylib",
+        "runtimes/osx-arm64/native/libhighs.1.dylib",
+        "runtimes/osx-arm64/native/libortools.9.dylib",
+        "runtimes/osx-arm64/native/libprotobuf.33.1.0.dylib",
+        "runtimes/osx-arm64/native/libre2.11.dylib",
+        "runtimes/osx-arm64/native/libscip.10.0.dylib",
+        "runtimes/osx-arm64/native/libutf8_validity.33.1.0.dylib",
+        "runtimes/osx-arm64/native/libz.1.dylib"
+      ]
+    },
+    "Google.OrTools.runtime.osx-x64/9.15.6755": {
+      "sha512": "f0oTHbcoM2hBRyUVWvIR8cH2m5CibAZezK3mrPXNmoXKDjgoJhmheeovgajXu6/ax1RW7529m8yS6eHkmaZCOA==",
+      "type": "package",
+      "path": "google.ortools.runtime.osx-x64/9.15.6755",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/README.md",
+        "content/orLogo.png",
+        "google.ortools.runtime.osx-x64.9.15.6755.nupkg.sha512",
+        "google.ortools.runtime.osx-x64.nuspec",
+        "runtimes/osx-x64/native/google-ortools-native.dylib",
+        "runtimes/osx-x64/native/libCbc.2.dylib",
+        "runtimes/osx-x64/native/libCbcSolver.2.dylib",
+        "runtimes/osx-x64/native/libCgl.0.dylib",
+        "runtimes/osx-x64/native/libClp.1.dylib",
+        "runtimes/osx-x64/native/libClpSolver.1.dylib",
+        "runtimes/osx-x64/native/libCoinUtils.2.dylib",
+        "runtimes/osx-x64/native/libOsi.0.dylib",
+        "runtimes/osx-x64/native/libOsiCbc.2.dylib",
+        "runtimes/osx-x64/native/libOsiClp.1.dylib",
+        "runtimes/osx-x64/native/libabsl_base.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_city.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_civil_time.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_cord.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_cord_internal.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_cordz_functions.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_cordz_handle.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_cordz_info.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_crc32c.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_crc_cord_state.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_crc_cpu_detect.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_crc_internal.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_debugging_internal.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_decode_rust_punycode.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_demangle_internal.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_demangle_rust.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_die_if_null.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_examine_stack.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_exponential_biased.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_flags_commandlineflag.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_flags_commandlineflag_internal.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_flags_config.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_flags_internal.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_flags_marshalling.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_flags_parse.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_flags_private_handle_accessor.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_flags_program_name.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_flags_reflection.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_flags_usage.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_flags_usage_internal.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_graphcycles_internal.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_hash.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_hashtablez_sampler.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_int128.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_kernel_timeout_internal.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_leak_check.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_log_entry.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_log_flags.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_log_globals.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_log_initialize.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_log_internal_check_op.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_log_internal_conditions.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_log_internal_fnmatch.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_log_internal_format.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_log_internal_globals.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_log_internal_log_sink_set.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_log_internal_message.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_log_internal_nullguard.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_log_internal_proto.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_log_internal_structured_proto.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_log_severity.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_log_sink.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_malloc_internal.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_random_distributions.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_random_internal_entropy_pool.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_random_internal_platform.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_random_internal_randen.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_random_internal_randen_hwaes.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_random_internal_randen_hwaes_impl.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_random_internal_randen_slow.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_random_internal_seed_material.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_random_seed_gen_exception.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_random_seed_sequences.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_raw_hash_set.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_raw_logging_internal.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_spinlock_wait.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_stacktrace.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_status.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_statusor.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_str_format_internal.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_strerror.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_string_view.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_strings.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_strings_internal.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_symbolize.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_synchronization.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_throw_delegate.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_time.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_time_zone.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_tracing_internal.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_utf8_for_code_point.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libabsl_vlog_config_internal.2508.0.0.dylib",
+        "runtimes/osx-x64/native/libbz2.1.dylib",
+        "runtimes/osx-x64/native/libhighs.1.dylib",
+        "runtimes/osx-x64/native/libortools.9.dylib",
+        "runtimes/osx-x64/native/libprotobuf.33.1.0.dylib",
+        "runtimes/osx-x64/native/libre2.11.dylib",
+        "runtimes/osx-x64/native/libscip.10.0.dylib",
+        "runtimes/osx-x64/native/libutf8_validity.33.1.0.dylib",
+        "runtimes/osx-x64/native/libz.1.dylib"
+      ]
+    },
+    "Google.OrTools.runtime.win-x64/9.15.6755": {
+      "sha512": "Tox7pDhrVIfG7OdV7ISikiO5coioZ0FgtyK/H8cayzito4r512Oly/yi19TXjuqK8pKHD6BJOR0fY0aEkb3Nuw==",
+      "type": "package",
+      "path": "google.ortools.runtime.win-x64/9.15.6755",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/README.md",
+        "content/orLogo.png",
+        "google.ortools.runtime.win-x64.9.15.6755.nupkg.sha512",
+        "google.ortools.runtime.win-x64.nuspec",
+        "runtimes/win-x64/native/abseil_dll.dll",
+        "runtimes/win-x64/native/bz2.dll",
+        "runtimes/win-x64/native/google-ortools-native.dll",
+        "runtimes/win-x64/native/highs.dll",
+        "runtimes/win-x64/native/libprotobuf.dll",
+        "runtimes/win-x64/native/libscip.dll",
+        "runtimes/win-x64/native/libutf8_validity.dll",
+        "runtimes/win-x64/native/ortools.dll",
+        "runtimes/win-x64/native/re2.dll",
+        "runtimes/win-x64/native/zlib1.dll"
+      ]
+    },
+    "Google.Protobuf/3.33.1": {
+      "sha512": "RztiFmX9aOWDwfhxFzx/nS4fjs4DX7ZC7/XBEBl56k15lPGBftvbSwZkeo1mMCJHrNp1kK5iQYrFXB4MqCmBCA==",
+      "type": "package",
+      "path": "google.protobuf/3.33.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "google.protobuf.3.33.1.nupkg.sha512",
+        "google.protobuf.nuspec",
+        "lib/net45/Google.Protobuf.dll",
+        "lib/net45/Google.Protobuf.pdb",
+        "lib/net45/Google.Protobuf.xml",
+        "lib/net5.0/Google.Protobuf.dll",
+        "lib/net5.0/Google.Protobuf.pdb",
+        "lib/net5.0/Google.Protobuf.xml",
+        "lib/netstandard1.1/Google.Protobuf.dll",
+        "lib/netstandard1.1/Google.Protobuf.pdb",
+        "lib/netstandard1.1/Google.Protobuf.xml",
+        "lib/netstandard2.0/Google.Protobuf.dll",
+        "lib/netstandard2.0/Google.Protobuf.pdb",
+        "lib/netstandard2.0/Google.Protobuf.xml"
+      ]
+    },
+    "Microsoft.AspNetCore.OpenApi/8.0.30": {
+      "sha512": "SkplhD18TzruiyyQ6JdI2+letDOhQ/1Zo4dGlsx2qp7o7lO44jPg2Yw/U4U3vZZFe3ae3JJav3Fm8lc1EFXqIg==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.openapi/8.0.30",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net8.0/Microsoft.AspNetCore.OpenApi.dll",
+        "lib/net8.0/Microsoft.AspNetCore.OpenApi.xml",
+        "microsoft.aspnetcore.openapi.8.0.30.nupkg.sha512",
+        "microsoft.aspnetcore.openapi.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
+      "sha512": "Ckb5EDBUNJdFWyajfXzUIMRkhf52fHZOQuuZg/oiu8y7zDCVwD0iHhew6MnThjHmevanpxL3f5ci2TtHQEN6bw==",
+      "type": "package",
+      "path": "microsoft.extensions.apidescription.server/6.0.5",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "build/Microsoft.Extensions.ApiDescription.Server.props",
+        "build/Microsoft.Extensions.ApiDescription.Server.targets",
+        "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.props",
+        "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.targets",
+        "microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+        "microsoft.extensions.apidescription.server.nuspec",
+        "tools/Newtonsoft.Json.dll",
+        "tools/dotnet-getdocument.deps.json",
+        "tools/dotnet-getdocument.dll",
+        "tools/dotnet-getdocument.runtimeconfig.json",
+        "tools/net461-x86/GetDocument.Insider.exe",
+        "tools/net461-x86/GetDocument.Insider.exe.config",
+        "tools/net461-x86/Microsoft.Win32.Primitives.dll",
+        "tools/net461-x86/System.AppContext.dll",
+        "tools/net461-x86/System.Buffers.dll",
+        "tools/net461-x86/System.Collections.Concurrent.dll",
+        "tools/net461-x86/System.Collections.NonGeneric.dll",
+        "tools/net461-x86/System.Collections.Specialized.dll",
+        "tools/net461-x86/System.Collections.dll",
+        "tools/net461-x86/System.ComponentModel.EventBasedAsync.dll",
+        "tools/net461-x86/System.ComponentModel.Primitives.dll",
+        "tools/net461-x86/System.ComponentModel.TypeConverter.dll",
+        "tools/net461-x86/System.ComponentModel.dll",
+        "tools/net461-x86/System.Console.dll",
+        "tools/net461-x86/System.Data.Common.dll",
+        "tools/net461-x86/System.Diagnostics.Contracts.dll",
+        "tools/net461-x86/System.Diagnostics.Debug.dll",
+        "tools/net461-x86/System.Diagnostics.DiagnosticSource.dll",
+        "tools/net461-x86/System.Diagnostics.FileVersionInfo.dll",
+        "tools/net461-x86/System.Diagnostics.Process.dll",
+        "tools/net461-x86/System.Diagnostics.StackTrace.dll",
+        "tools/net461-x86/System.Diagnostics.TextWriterTraceListener.dll",
+        "tools/net461-x86/System.Diagnostics.Tools.dll",
+        "tools/net461-x86/System.Diagnostics.TraceSource.dll",
+        "tools/net461-x86/System.Diagnostics.Tracing.dll",
+        "tools/net461-x86/System.Drawing.Primitives.dll",
+        "tools/net461-x86/System.Dynamic.Runtime.dll",
+        "tools/net461-x86/System.Globalization.Calendars.dll",
+        "tools/net461-x86/System.Globalization.Extensions.dll",
+        "tools/net461-x86/System.Globalization.dll",
+        "tools/net461-x86/System.IO.Compression.ZipFile.dll",
+        "tools/net461-x86/System.IO.Compression.dll",
+        "tools/net461-x86/System.IO.FileSystem.DriveInfo.dll",
+        "tools/net461-x86/System.IO.FileSystem.Primitives.dll",
+        "tools/net461-x86/System.IO.FileSystem.Watcher.dll",
+        "tools/net461-x86/System.IO.FileSystem.dll",
+        "tools/net461-x86/System.IO.IsolatedStorage.dll",
+        "tools/net461-x86/System.IO.MemoryMappedFiles.dll",
+        "tools/net461-x86/System.IO.Pipes.dll",
+        "tools/net461-x86/System.IO.UnmanagedMemoryStream.dll",
+        "tools/net461-x86/System.IO.dll",
+        "tools/net461-x86/System.Linq.Expressions.dll",
+        "tools/net461-x86/System.Linq.Parallel.dll",
+        "tools/net461-x86/System.Linq.Queryable.dll",
+        "tools/net461-x86/System.Linq.dll",
+        "tools/net461-x86/System.Memory.dll",
+        "tools/net461-x86/System.Net.Http.dll",
+        "tools/net461-x86/System.Net.NameResolution.dll",
+        "tools/net461-x86/System.Net.NetworkInformation.dll",
+        "tools/net461-x86/System.Net.Ping.dll",
+        "tools/net461-x86/System.Net.Primitives.dll",
+        "tools/net461-x86/System.Net.Requests.dll",
+        "tools/net461-x86/System.Net.Security.dll",
+        "tools/net461-x86/System.Net.Sockets.dll",
+        "tools/net461-x86/System.Net.WebHeaderCollection.dll",
+        "tools/net461-x86/System.Net.WebSockets.Client.dll",
+        "tools/net461-x86/System.Net.WebSockets.dll",
+        "tools/net461-x86/System.Numerics.Vectors.dll",
+        "tools/net461-x86/System.ObjectModel.dll",
+        "tools/net461-x86/System.Reflection.Extensions.dll",
+        "tools/net461-x86/System.Reflection.Primitives.dll",
+        "tools/net461-x86/System.Reflection.dll",
+        "tools/net461-x86/System.Resources.Reader.dll",
+        "tools/net461-x86/System.Resources.ResourceManager.dll",
+        "tools/net461-x86/System.Resources.Writer.dll",
+        "tools/net461-x86/System.Runtime.CompilerServices.Unsafe.dll",
+        "tools/net461-x86/System.Runtime.CompilerServices.VisualC.dll",
+        "tools/net461-x86/System.Runtime.Extensions.dll",
+        "tools/net461-x86/System.Runtime.Handles.dll",
+        "tools/net461-x86/System.Runtime.InteropServices.RuntimeInformation.dll",
+        "tools/net461-x86/System.Runtime.InteropServices.dll",
+        "tools/net461-x86/System.Runtime.Numerics.dll",
+        "tools/net461-x86/System.Runtime.Serialization.Formatters.dll",
+        "tools/net461-x86/System.Runtime.Serialization.Json.dll",
+        "tools/net461-x86/System.Runtime.Serialization.Primitives.dll",
+        "tools/net461-x86/System.Runtime.Serialization.Xml.dll",
+        "tools/net461-x86/System.Runtime.dll",
+        "tools/net461-x86/System.Security.Claims.dll",
+        "tools/net461-x86/System.Security.Cryptography.Algorithms.dll",
+        "tools/net461-x86/System.Security.Cryptography.Csp.dll",
+        "tools/net461-x86/System.Security.Cryptography.Encoding.dll",
+        "tools/net461-x86/System.Security.Cryptography.Primitives.dll",
+        "tools/net461-x86/System.Security.Cryptography.X509Certificates.dll",
+        "tools/net461-x86/System.Security.Principal.dll",
+        "tools/net461-x86/System.Security.SecureString.dll",
+        "tools/net461-x86/System.Text.Encoding.Extensions.dll",
+        "tools/net461-x86/System.Text.Encoding.dll",
+        "tools/net461-x86/System.Text.RegularExpressions.dll",
+        "tools/net461-x86/System.Threading.Overlapped.dll",
+        "tools/net461-x86/System.Threading.Tasks.Parallel.dll",
+        "tools/net461-x86/System.Threading.Tasks.dll",
+        "tools/net461-x86/System.Threading.Thread.dll",
+        "tools/net461-x86/System.Threading.ThreadPool.dll",
+        "tools/net461-x86/System.Threading.Timer.dll",
+        "tools/net461-x86/System.Threading.dll",
+        "tools/net461-x86/System.ValueTuple.dll",
+        "tools/net461-x86/System.Xml.ReaderWriter.dll",
+        "tools/net461-x86/System.Xml.XDocument.dll",
+        "tools/net461-x86/System.Xml.XPath.XDocument.dll",
+        "tools/net461-x86/System.Xml.XPath.dll",
+        "tools/net461-x86/System.Xml.XmlDocument.dll",
+        "tools/net461-x86/System.Xml.XmlSerializer.dll",
+        "tools/net461-x86/netstandard.dll",
+        "tools/net461/GetDocument.Insider.exe",
+        "tools/net461/GetDocument.Insider.exe.config",
+        "tools/net461/Microsoft.Win32.Primitives.dll",
+        "tools/net461/System.AppContext.dll",
+        "tools/net461/System.Buffers.dll",
+        "tools/net461/System.Collections.Concurrent.dll",
+        "tools/net461/System.Collections.NonGeneric.dll",
+        "tools/net461/System.Collections.Specialized.dll",
+        "tools/net461/System.Collections.dll",
+        "tools/net461/System.ComponentModel.EventBasedAsync.dll",
+        "tools/net461/System.ComponentModel.Primitives.dll",
+        "tools/net461/System.ComponentModel.TypeConverter.dll",
+        "tools/net461/System.ComponentModel.dll",
+        "tools/net461/System.Console.dll",
+        "tools/net461/System.Data.Common.dll",
+        "tools/net461/System.Diagnostics.Contracts.dll",
+        "tools/net461/System.Diagnostics.Debug.dll",
+        "tools/net461/System.Diagnostics.DiagnosticSource.dll",
+        "tools/net461/System.Diagnostics.FileVersionInfo.dll",
+        "tools/net461/System.Diagnostics.Process.dll",
+        "tools/net461/System.Diagnostics.StackTrace.dll",
+        "tools/net461/System.Diagnostics.TextWriterTraceListener.dll",
+        "tools/net461/System.Diagnostics.Tools.dll",
+        "tools/net461/System.Diagnostics.TraceSource.dll",
+        "tools/net461/System.Diagnostics.Tracing.dll",
+        "tools/net461/System.Drawing.Primitives.dll",
+        "tools/net461/System.Dynamic.Runtime.dll",
+        "tools/net461/System.Globalization.Calendars.dll",
+        "tools/net461/System.Globalization.Extensions.dll",
+        "tools/net461/System.Globalization.dll",
+        "tools/net461/System.IO.Compression.ZipFile.dll",
+        "tools/net461/System.IO.Compression.dll",
+        "tools/net461/System.IO.FileSystem.DriveInfo.dll",
+        "tools/net461/System.IO.FileSystem.Primitives.dll",
+        "tools/net461/System.IO.FileSystem.Watcher.dll",
+        "tools/net461/System.IO.FileSystem.dll",
+        "tools/net461/System.IO.IsolatedStorage.dll",
+        "tools/net461/System.IO.MemoryMappedFiles.dll",
+        "tools/net461/System.IO.Pipes.dll",
+        "tools/net461/System.IO.UnmanagedMemoryStream.dll",
+        "tools/net461/System.IO.dll",
+        "tools/net461/System.Linq.Expressions.dll",
+        "tools/net461/System.Linq.Parallel.dll",
+        "tools/net461/System.Linq.Queryable.dll",
+        "tools/net461/System.Linq.dll",
+        "tools/net461/System.Memory.dll",
+        "tools/net461/System.Net.Http.dll",
+        "tools/net461/System.Net.NameResolution.dll",
+        "tools/net461/System.Net.NetworkInformation.dll",
+        "tools/net461/System.Net.Ping.dll",
+        "tools/net461/System.Net.Primitives.dll",
+        "tools/net461/System.Net.Requests.dll",
+        "tools/net461/System.Net.Security.dll",
+        "tools/net461/System.Net.Sockets.dll",
+        "tools/net461/System.Net.WebHeaderCollection.dll",
+        "tools/net461/System.Net.WebSockets.Client.dll",
+        "tools/net461/System.Net.WebSockets.dll",
+        "tools/net461/System.Numerics.Vectors.dll",
+        "tools/net461/System.ObjectModel.dll",
+        "tools/net461/System.Reflection.Extensions.dll",
+        "tools/net461/System.Reflection.Primitives.dll",
+        "tools/net461/System.Reflection.dll",
+        "tools/net461/System.Resources.Reader.dll",
+        "tools/net461/System.Resources.ResourceManager.dll",
+        "tools/net461/System.Resources.Writer.dll",
+        "tools/net461/System.Runtime.CompilerServices.Unsafe.dll",
+        "tools/net461/System.Runtime.CompilerServices.VisualC.dll",
+        "tools/net461/System.Runtime.Extensions.dll",
+        "tools/net461/System.Runtime.Handles.dll",
+        "tools/net461/System.Runtime.InteropServices.RuntimeInformation.dll",
+        "tools/net461/System.Runtime.InteropServices.dll",
+        "tools/net461/System.Runtime.Numerics.dll",
+        "tools/net461/System.Runtime.Serialization.Formatters.dll",
+        "tools/net461/System.Runtime.Serialization.Json.dll",
+        "tools/net461/System.Runtime.Serialization.Primitives.dll",
+        "tools/net461/System.Runtime.Serialization.Xml.dll",
+        "tools/net461/System.Runtime.dll",
+        "tools/net461/System.Security.Claims.dll",
+        "tools/net461/System.Security.Cryptography.Algorithms.dll",
+        "tools/net461/System.Security.Cryptography.Csp.dll",
+        "tools/net461/System.Security.Cryptography.Encoding.dll",
+        "tools/net461/System.Security.Cryptography.Primitives.dll",
+        "tools/net461/System.Security.Cryptography.X509Certificates.dll",
+        "tools/net461/System.Security.Principal.dll",
+        "tools/net461/System.Security.SecureString.dll",
+        "tools/net461/System.Text.Encoding.Extensions.dll",
+        "tools/net461/System.Text.Encoding.dll",
+        "tools/net461/System.Text.RegularExpressions.dll",
+        "tools/net461/System.Threading.Overlapped.dll",
+        "tools/net461/System.Threading.Tasks.Parallel.dll",
+        "tools/net461/System.Threading.Tasks.dll",
+        "tools/net461/System.Threading.Thread.dll",
+        "tools/net461/System.Threading.ThreadPool.dll",
+        "tools/net461/System.Threading.Timer.dll",
+        "tools/net461/System.Threading.dll",
+        "tools/net461/System.ValueTuple.dll",
+        "tools/net461/System.Xml.ReaderWriter.dll",
+        "tools/net461/System.Xml.XDocument.dll",
+        "tools/net461/System.Xml.XPath.XDocument.dll",
+        "tools/net461/System.Xml.XPath.dll",
+        "tools/net461/System.Xml.XmlDocument.dll",
+        "tools/net461/System.Xml.XmlSerializer.dll",
+        "tools/net461/netstandard.dll",
+        "tools/netcoreapp2.1/GetDocument.Insider.deps.json",
+        "tools/netcoreapp2.1/GetDocument.Insider.dll",
+        "tools/netcoreapp2.1/GetDocument.Insider.runtimeconfig.json",
+        "tools/netcoreapp2.1/System.Diagnostics.DiagnosticSource.dll"
+      ]
+    },
+    "Microsoft.OpenApi/1.6.14": {
+      "sha512": "tTaBT8qjk3xINfESyOPE2rIellPvB7qpVqiWiyA/lACVvz+xOGiXhFUfohcx82NLbi5avzLW0lx+s6oAqQijfw==",
+      "type": "package",
+      "path": "microsoft.openapi/1.6.14",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/netstandard2.0/Microsoft.OpenApi.dll",
+        "lib/netstandard2.0/Microsoft.OpenApi.pdb",
+        "lib/netstandard2.0/Microsoft.OpenApi.xml",
+        "microsoft.openapi.1.6.14.nupkg.sha512",
+        "microsoft.openapi.nuspec"
+      ]
+    },
+    "Swashbuckle.AspNetCore/6.6.2": {
+      "sha512": "+NB4UYVYN6AhDSjW0IJAd1AGD8V33gemFNLPaxKTtPkHB+HaKAKf9MGAEUPivEWvqeQfcKIw8lJaHq6LHljRuw==",
+      "type": "package",
+      "path": "swashbuckle.aspnetcore/6.6.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Swashbuckle.AspNetCore.props",
+        "swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+        "swashbuckle.aspnetcore.nuspec"
+      ]
+    },
+    "Swashbuckle.AspNetCore.Swagger/6.6.2": {
+      "sha512": "ovgPTSYX83UrQUWiS5vzDcJ8TEX1MAxBgDFMK45rC24MorHEPQlZAHlaXj/yth4Zf6xcktpUgTEBvffRQVwDKA==",
+      "type": "package",
+      "path": "swashbuckle.aspnetcore.swagger/6.6.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/Swashbuckle.AspNetCore.Swagger.dll",
+        "lib/net5.0/Swashbuckle.AspNetCore.Swagger.pdb",
+        "lib/net5.0/Swashbuckle.AspNetCore.Swagger.xml",
+        "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll",
+        "lib/net6.0/Swashbuckle.AspNetCore.Swagger.pdb",
+        "lib/net6.0/Swashbuckle.AspNetCore.Swagger.xml",
+        "lib/net7.0/Swashbuckle.AspNetCore.Swagger.dll",
+        "lib/net7.0/Swashbuckle.AspNetCore.Swagger.pdb",
+        "lib/net7.0/Swashbuckle.AspNetCore.Swagger.xml",
+        "lib/net8.0/Swashbuckle.AspNetCore.Swagger.dll",
+        "lib/net8.0/Swashbuckle.AspNetCore.Swagger.pdb",
+        "lib/net8.0/Swashbuckle.AspNetCore.Swagger.xml",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.pdb",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.xml",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.dll",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.pdb",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.xml",
+        "package-readme.md",
+        "swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+        "swashbuckle.aspnetcore.swagger.nuspec"
+      ]
+    },
+    "Swashbuckle.AspNetCore.SwaggerGen/6.6.2": {
+      "sha512": "zv4ikn4AT1VYuOsDCpktLq4QDq08e7Utzbir86M5/ZkRaLXbCPF11E1/vTmOiDzRTl0zTZINQU2qLKwTcHgfrA==",
+      "type": "package",
+      "path": "swashbuckle.aspnetcore.swaggergen/6.6.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll",
+        "lib/net5.0/Swashbuckle.AspNetCore.SwaggerGen.pdb",
+        "lib/net5.0/Swashbuckle.AspNetCore.SwaggerGen.xml",
+        "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll",
+        "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.pdb",
+        "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.xml",
+        "lib/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll",
+        "lib/net7.0/Swashbuckle.AspNetCore.SwaggerGen.pdb",
+        "lib/net7.0/Swashbuckle.AspNetCore.SwaggerGen.xml",
+        "lib/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll",
+        "lib/net8.0/Swashbuckle.AspNetCore.SwaggerGen.pdb",
+        "lib/net8.0/Swashbuckle.AspNetCore.SwaggerGen.xml",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.pdb",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.xml",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerGen.dll",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerGen.pdb",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerGen.xml",
+        "package-readme.md",
+        "swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+        "swashbuckle.aspnetcore.swaggergen.nuspec"
+      ]
+    },
+    "Swashbuckle.AspNetCore.SwaggerUI/6.6.2": {
+      "sha512": "mBBb+/8Hm2Q3Wygag+hu2jj69tZW5psuv0vMRXY07Wy+Rrj40vRP8ZTbKBhs91r45/HXT4aY4z0iSBYx1h6JvA==",
+      "type": "package",
+      "path": "swashbuckle.aspnetcore.swaggerui/6.6.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/net5.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/net5.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "lib/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/net7.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/net7.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "package-readme.md",
+        "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+        "swashbuckle.aspnetcore.swaggerui.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Google.OrTools >= 9.15.6755",
+      "Microsoft.AspNetCore.OpenApi >= 8.0.30",
+      "Swashbuckle.AspNetCore >= 6.6.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mpo501\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Abhishek Gujre\\Dotnet Task\\DotnetTask Assignment\\src\\TimetableSolver\\TimetableSolver.csproj",
+      "projectName": "TimetableSolver",
+      "projectPath": "D:\\Abhishek Gujre\\Dotnet Task\\DotnetTask Assignment\\src\\TimetableSolver\\TimetableSolver.csproj",
+      "packagesPath": "C:\\Users\\mpo501\\.nuget\\packages\\",
+      "outputPath": "D:\\Abhishek Gujre\\Dotnet Task\\DotnetTask Assignment\\src\\TimetableSolver\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mpo501\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "framework": "net8.0",
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Google.OrTools": {
+            "target": "Package",
+            "version": "[9.15.6755, )"
+          },
+          "Microsoft.AspNetCore.OpenApi": {
+            "target": "Package",
+            "version": "[8.0.30, )"
+          },
+          "Swashbuckle.AspNetCore": {
+            "target": "Package",
+            "version": "[6.6.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

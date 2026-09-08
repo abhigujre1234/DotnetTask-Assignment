@@ -1,0 +1,56 @@
+@TimetableSolver_HostAddress = http://localhost:5000
+
+### 1. Inspect loaded dataset (JSON embedded data)
+GET {{TimetableSolver_HostAddress}}/api/timetable/dataset
+Accept: application/json
+
+###
+
+### 2. Load and validate dataset (Summary + Data conflicts)
+POST {{TimetableSolver_HostAddress}}/api/timetable/load-data
+Accept: application/json
+
+###
+
+### 3. Generate full school timetable with Google OR-Tools CP-SAT solver
+POST {{TimetableSolver_HostAddress}}/api/timetable/generate?timeoutSeconds=300
+Accept: application/json
+
+###
+
+### 4. Get Executive Summary
+GET {{TimetableSolver_HostAddress}}/api/timetable/summary
+Accept: application/json
+
+###
+
+### 5. Get all section timetables (41 Sections, 2,132 slots)
+GET {{TimetableSolver_HostAddress}}/api/timetable/sections
+Accept: application/json
+
+###
+
+### 6. Get timetable for a specific section (e.g. Class 10 Lily)
+GET {{TimetableSolver_HostAddress}}/api/timetable/sections/10-lily
+Accept: application/json
+
+###
+
+### 7. Get all teacher timetables (44 Teachers)
+GET {{TimetableSolver_HostAddress}}/api/timetable/teachers
+Accept: application/json
+
+###
+
+### 8. Get timetable for a specific teacher (e.g. T01 or by name)
+GET {{TimetableSolver_HostAddress}}/api/timetable/teachers/T01
+Accept: application/json
+
+###
+
+### 9. Get data gaps and scheduling conflicts
+GET {{TimetableSolver_HostAddress}}/api/timetable/conflicts
+Accept: application/json
+
+###
+

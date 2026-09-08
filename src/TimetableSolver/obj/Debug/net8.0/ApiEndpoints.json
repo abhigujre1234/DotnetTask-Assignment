@@ -1,0 +1,120 @@
+[
+  {
+    "ContainingType": "TimetableSolver.Controllers.TimetableController",
+    "Method": "GetConflicts",
+    "RelativePath": "api/Timetable/conflicts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TimetableSolver.Controllers.TimetableController",
+    "Method": "GetDataset",
+    "RelativePath": "api/Timetable/dataset",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TimetableSolver.Controllers.TimetableController",
+    "Method": "Generate",
+    "RelativePath": "api/Timetable/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "forceRecompute",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "timeoutSeconds",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "sectionId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TimetableSolver.Controllers.TimetableController",
+    "Method": "LoadData",
+    "RelativePath": "api/Timetable/load-data",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TimetableSolver.Controllers.TimetableController",
+    "Method": "GetSections",
+    "RelativePath": "api/Timetable/sections",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TimetableSolver.Controllers.TimetableController",
+    "Method": "GetSectionById",
+    "RelativePath": "api/Timetable/sections/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TimetableSolver.Controllers.TimetableController",
+    "Method": "GetSummary",
+    "RelativePath": "api/Timetable/summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TimetableSolver.Controllers.TimetableController",
+    "Method": "GetTeachers",
+    "RelativePath": "api/Timetable/teachers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TimetableSolver.Controllers.TimetableController",
+    "Method": "GetTeacherById",
+    "RelativePath": "api/Timetable/teachers/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

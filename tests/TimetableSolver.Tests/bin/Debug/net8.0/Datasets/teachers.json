@@ -1,0 +1,576 @@
+[
+  {
+    "id": "002",
+    "code": "002",
+    "name": "Ruchi Singh",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 45,
+    "assignedClasses": [
+      "Class 1",
+      "Class 2",
+      "Class 7"
+    ]
+  },
+  {
+    "id": "100047",
+    "code": "100047",
+    "name": "Ritika Malviya",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 75,
+    "assignedClasses": [
+      "Class 3",
+      "Class 4",
+      "Class 6",
+      "Class 7",
+      "Class 8"
+    ]
+  },
+  {
+    "id": "100048",
+    "code": "100048",
+    "name": "P Aliya Aliya Papua",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 40,
+    "assignedClasses": [
+      "Class 2"
+    ]
+  },
+  {
+    "id": "100049",
+    "code": "100049",
+    "name": "Jyoti Solanki",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 20,
+    "assignedClasses": [
+      "Class 5",
+      "Class 6"
+    ]
+  },
+  {
+    "id": "100052",
+    "code": "100052",
+    "name": "Prarthana Goswami",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 20,
+    "assignedClasses": [
+      "Class 2"
+    ]
+  },
+  {
+    "id": "100059",
+    "code": "100059",
+    "name": "Harsha Talreja",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": null,
+    "assignedClasses": [
+      "Class 4"
+    ]
+  },
+  {
+    "id": "100091",
+    "code": "100091",
+    "name": "Ayushi Sharma",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 90,
+    "assignedClasses": [
+      "Class 1",
+      "Class 2",
+      "Class 3",
+      "Class 4",
+      "Class 5",
+      "Class 7"
+    ]
+  },
+  {
+    "id": "E1014",
+    "code": "E1014",
+    "name": "Laxmi Ghatt",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 60,
+    "assignedClasses": [
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ]
+  },
+  {
+    "id": "E2133",
+    "code": "E2133",
+    "name": "Sujata Naidu",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": null,
+    "assignedClasses": [
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10"
+    ]
+  },
+  {
+    "id": "E2336",
+    "code": "E2336",
+    "name": "Mohd Fazal Rehman",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": null,
+    "assignedClasses": [
+      "Class 4",
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ]
+  },
+  {
+    "id": "E2628",
+    "code": "E2628",
+    "name": "Kavita A",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 90,
+    "assignedClasses": [
+      "Class 4",
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ]
+  },
+  {
+    "id": "E2701",
+    "code": "E2701",
+    "name": "Harpreet Kaur",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": null,
+    "assignedClasses": [
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ]
+  },
+  {
+    "id": "E2787",
+    "code": "E2787",
+    "name": "Rajni Soni",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 40,
+    "assignedClasses": [
+      "Class 5"
+    ]
+  },
+  {
+    "id": "E2904",
+    "code": "E2904",
+    "name": "Priyanka Rana",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 20,
+    "assignedClasses": [
+      "Class 1"
+    ]
+  },
+  {
+    "id": "GEN-2745",
+    "code": "GEN-2745",
+    "name": "Firdosh .",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": null,
+    "assignedClasses": [
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8"
+    ]
+  },
+  {
+    "id": "GEN-3812",
+    "code": "GEN-3812",
+    "name": "Arunav Kishor",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 45,
+    "assignedClasses": [
+      "Class 4",
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8"
+    ]
+  },
+  {
+    "id": "GEN-7649",
+    "code": "GEN-7649",
+    "name": "Priyanka Singh",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 30,
+    "assignedClasses": [
+      "Class 6",
+      "Class 7"
+    ]
+  },
+  {
+    "id": "GEN-9148",
+    "code": "GEN-9148",
+    "name": "Anjali Dewangan",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 45,
+    "assignedClasses": [
+      "Class 4",
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8"
+    ]
+  },
+  {
+    "id": "RVS06",
+    "code": "RVS06",
+    "name": "Harshita Malviya",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": null,
+    "assignedClasses": [
+      "Class 1"
+    ]
+  },
+  {
+    "id": "RVS09",
+    "code": "RVS09",
+    "name": "Dhanu Priya Kolte",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 35,
+    "assignedClasses": [
+      "Class 3",
+      "Class 4"
+    ]
+  },
+  {
+    "id": "RVS54",
+    "code": "RVS54",
+    "name": "Ruhamah David",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 40,
+    "assignedClasses": [
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ]
+  },
+  {
+    "id": "RVS67",
+    "code": "RVS67",
+    "name": "Namita Nikam",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": null,
+    "assignedClasses": [
+      "Class 8",
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ]
+  },
+  {
+    "id": "RVS76",
+    "code": "RVS76",
+    "name": "Seema Khatri",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": null,
+    "assignedClasses": [
+      "Class 1",
+      "Class 2",
+      "Class 4"
+    ]
+  },
+  {
+    "id": "RVS81",
+    "code": "RVS81",
+    "name": "Prajakta Dhandore",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 105,
+    "assignedClasses": [
+      "Class 1",
+      "Class 2",
+      "Class 3",
+      "Class 4",
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8"
+    ]
+  },
+  {
+    "id": "RVS85",
+    "code": "RVS85",
+    "name": "Anjulika Singh",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 85,
+    "assignedClasses": [
+      "Class 4",
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ]
+  },
+  {
+    "id": "RVS95",
+    "code": "RVS95",
+    "name": "Preeti Muchhal",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 35,
+    "assignedClasses": [
+      "Class 3",
+      "Class 4"
+    ]
+  },
+  {
+    "id": "RVS115",
+    "code": "RVS115",
+    "name": "Ashish Thakur",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": null,
+    "assignedClasses": [
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ]
+  },
+  {
+    "id": "RVS136",
+    "code": "RVS136",
+    "name": "Shashi Shukla",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 45,
+    "assignedClasses": [
+      "Class 8",
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ]
+  },
+  {
+    "id": "RVS143",
+    "code": "RVS143",
+    "name": "Meenakshi Singh",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": null,
+    "assignedClasses": [
+      "Class 3",
+      "Class 4",
+      "Class 5"
+    ]
+  },
+  {
+    "id": "RVS148",
+    "code": "RVS148",
+    "name": "Neelam Pawar Digarse",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 70,
+    "assignedClasses": [
+      "Class 1",
+      "Class 2",
+      "Class 3",
+      "Class 6"
+    ]
+  },
+  {
+    "id": "RVS149",
+    "code": "RVS149",
+    "name": "Pratha Choubey",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 40,
+    "assignedClasses": [
+      "Class 2"
+    ]
+  },
+  {
+    "id": "RVS150",
+    "code": "RVS150",
+    "name": "Sugatha Unnithan",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": null,
+    "assignedClasses": [
+      "Class 1",
+      "Class 3"
+    ]
+  },
+  {
+    "id": "RVS154",
+    "code": "RVS154",
+    "name": "Soma Dinda",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 60,
+    "assignedClasses": [
+      "Class 2",
+      "Class 4",
+      "Class 5"
+    ]
+  },
+  {
+    "id": "RVS157",
+    "code": "RVS157",
+    "name": "Noshin Siddiqui",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 35,
+    "assignedClasses": [
+      "Class 3",
+      "Class 4"
+    ]
+  },
+  {
+    "id": "RVS159",
+    "code": "RVS159",
+    "name": "Saksham Sharma",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": null,
+    "assignedClasses": [
+      "Class 8",
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ]
+  },
+  {
+    "id": "RVS172",
+    "code": "RVS172",
+    "name": "Swati Budholiya",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 40,
+    "assignedClasses": [
+      "Class 1"
+    ]
+  },
+  {
+    "id": "RVS173",
+    "code": "RVS173",
+    "name": "Shivendra Bopche",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 105,
+    "assignedClasses": [
+      "Class 1",
+      "Class 2",
+      "Class 3",
+      "Class 4",
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8"
+    ]
+  },
+  {
+    "id": "RVS174",
+    "code": "RVS174",
+    "name": "Ishwari Dubey",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": null,
+    "assignedClasses": [
+      "Class 2",
+      "Class 3",
+      "Class 4",
+      "Class 5"
+    ]
+  },
+  {
+    "id": "RVS188",
+    "code": "RVS188",
+    "name": "Kajal Shrivastava",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 170,
+    "assignedClasses": [
+      "Class 1",
+      "Class 2",
+      "Class 3",
+      "Class 4",
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ]
+  },
+  {
+    "id": "RVS189",
+    "code": "RVS189",
+    "name": "Neha Guha",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": null,
+    "assignedClasses": [
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ]
+  },
+  {
+    "id": "RVS190",
+    "code": "RVS190",
+    "name": "Soumya Nair",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 40,
+    "assignedClasses": [
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ]
+  },
+  {
+    "id": "RVS195",
+    "code": "RVS195",
+    "name": "Anjali Singh Chauhan",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 40,
+    "assignedClasses": [
+      "Class 1",
+      "Class 2"
+    ]
+  },
+  {
+    "id": "RVT095",
+    "code": "RVT095",
+    "name": "Aleena Khan",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 52,
+    "assignedClasses": [
+      "Class 1",
+      "Class 3"
+    ]
+  },
+  {
+    "id": "SPS26",
+    "code": "SPS26",
+    "name": "Leena Jain",
+    "maxPeriodsPerDay": null,
+    "maxPeriodsPerWeek": 50,
+    "assignedClasses": [
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10"
+    ]
+  }
+]

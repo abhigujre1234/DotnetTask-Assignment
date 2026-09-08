@@ -1,0 +1,622 @@
+{
+  "success": false,
+  "solver": {
+    "engine": "Google OR-Tools CP-SAT",
+    "status": "UNKNOWN",
+    "wallTimeMs": 17707,
+    "timeLimitSeconds": 15,
+    "objectiveValue": 0
+  },
+  "summary": {
+    "sectionsTotal": 0,
+    "sectionsScheduled": 0,
+    "totalSlotsScheduled": 0,
+    "teachersInvolved": 0,
+    "unassignedPlaceholderRows": 0,
+    "zeroWorkloadRows": 0
+  },
+  "dataConflicts": [
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 1 - Lily",
+      "subject": "Mathematics",
+      "teacherCode": "RVS06",
+      "teacherName": "Harshita Malviya",
+      "message": "Teacher Harshita Malviya (RVS06) has 0 periods/week workload for Mathematics in Class 1."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 1 - Lily",
+      "subject": "Communication",
+      "teacherCode": "RVS76",
+      "teacherName": "Seema Khatri",
+      "message": "Teacher Seema Khatri (RVS76) has 0 periods/week workload for Communication in Class 1."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 1 - Lavender",
+      "subject": "Mathematics",
+      "teacherCode": "RVS06",
+      "teacherName": "Harshita Malviya",
+      "message": "Teacher Harshita Malviya (RVS06) has 0 periods/week workload for Mathematics in Class 1."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 1 - Lavender",
+      "subject": "Communication",
+      "teacherCode": "RVS76",
+      "teacherName": "Seema Khatri",
+      "message": "Teacher Seema Khatri (RVS76) has 0 periods/week workload for Communication in Class 1."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 1 - Lotus",
+      "subject": "Mathematics",
+      "teacherCode": "RVS06",
+      "teacherName": "Harshita Malviya",
+      "message": "Teacher Harshita Malviya (RVS06) has 0 periods/week workload for Mathematics in Class 1."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 1 - Lotus",
+      "subject": "Communication",
+      "teacherCode": "RVS76",
+      "teacherName": "Seema Khatri",
+      "message": "Teacher Seema Khatri (RVS76) has 0 periods/week workload for Communication in Class 1."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 1 - Marigold",
+      "subject": "Mathematics",
+      "teacherCode": "RVS06",
+      "teacherName": "Harshita Malviya",
+      "message": "Teacher Harshita Malviya (RVS06) has 0 periods/week workload for Mathematics in Class 1."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 1 - Marigold",
+      "subject": "Communication",
+      "teacherCode": "RVS76",
+      "teacherName": "Seema Khatri",
+      "message": "Teacher Seema Khatri (RVS76) has 0 periods/week workload for Communication in Class 1."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 2 - Lily",
+      "subject": "Hindi",
+      "teacherCode": "RVS76",
+      "teacherName": "Seema Khatri",
+      "message": "Teacher Seema Khatri (RVS76) has 0 periods/week workload for Hindi in Class 2."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 2 - Lavender",
+      "subject": "Hindi",
+      "teacherCode": "RVS76",
+      "teacherName": "Seema Khatri",
+      "message": "Teacher Seema Khatri (RVS76) has 0 periods/week workload for Hindi in Class 2."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 2 - Lotus",
+      "subject": "Hindi",
+      "teacherCode": "RVS76",
+      "teacherName": "Seema Khatri",
+      "message": "Teacher Seema Khatri (RVS76) has 0 periods/week workload for Hindi in Class 2."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 2 - Marigold",
+      "subject": "Hindi",
+      "teacherCode": "RVS76",
+      "teacherName": "Seema Khatri",
+      "message": "Teacher Seema Khatri (RVS76) has 0 periods/week workload for Hindi in Class 2."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 3 - Lily",
+      "subject": "Computer",
+      "teacherCode": "RVS143",
+      "teacherName": "Meenakshi Singh",
+      "message": "Teacher Meenakshi Singh (RVS143) has 0 periods/week workload for Computer in Class 3."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 3 - Lavender",
+      "subject": "Computer",
+      "teacherCode": "RVS143",
+      "teacherName": "Meenakshi Singh",
+      "message": "Teacher Meenakshi Singh (RVS143) has 0 periods/week workload for Computer in Class 3."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 3 - Lotus",
+      "subject": "Computer",
+      "teacherCode": "RVS143",
+      "teacherName": "Meenakshi Singh",
+      "message": "Teacher Meenakshi Singh (RVS143) has 0 periods/week workload for Computer in Class 3."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 3 - Marigold",
+      "subject": "Computer",
+      "teacherCode": "RVS143",
+      "teacherName": "Meenakshi Singh",
+      "message": "Teacher Meenakshi Singh (RVS143) has 0 periods/week workload for Computer in Class 3."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 4 - Lily",
+      "subject": "Computer",
+      "teacherCode": "RVS143",
+      "teacherName": "Meenakshi Singh",
+      "message": "Teacher Meenakshi Singh (RVS143) has 0 periods/week workload for Computer in Class 4."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 4 - Lily",
+      "subject": "Hindi",
+      "teacherCode": "RVS76",
+      "teacherName": "Seema Khatri",
+      "message": "Teacher Seema Khatri (RVS76) has 0 periods/week workload for Hindi in Class 4."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 4 - Lily",
+      "subject": "Mathematics",
+      "teacherCode": "100059",
+      "teacherName": "Harsha Talreja",
+      "message": "Teacher Harsha Talreja (100059) has 0 periods/week workload for Mathematics in Class 4."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 4 - Lily",
+      "subject": "Science",
+      "teacherCode": "100059",
+      "teacherName": "Harsha Talreja",
+      "message": "Teacher Harsha Talreja (100059) has 0 periods/week workload for Science in Class 4."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 4 - Lavender",
+      "subject": "Computer",
+      "teacherCode": "RVS143",
+      "teacherName": "Meenakshi Singh",
+      "message": "Teacher Meenakshi Singh (RVS143) has 0 periods/week workload for Computer in Class 4."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 4 - Lavender",
+      "subject": "Hindi",
+      "teacherCode": "RVS76",
+      "teacherName": "Seema Khatri",
+      "message": "Teacher Seema Khatri (RVS76) has 0 periods/week workload for Hindi in Class 4."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 4 - Lavender",
+      "subject": "Mathematics",
+      "teacherCode": "100059",
+      "teacherName": "Harsha Talreja",
+      "message": "Teacher Harsha Talreja (100059) has 0 periods/week workload for Mathematics in Class 4."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 4 - Lavender",
+      "subject": "Science",
+      "teacherCode": "100059",
+      "teacherName": "Harsha Talreja",
+      "message": "Teacher Harsha Talreja (100059) has 0 periods/week workload for Science in Class 4."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 4 - Lotus",
+      "subject": "Computer",
+      "teacherCode": "RVS143",
+      "teacherName": "Meenakshi Singh",
+      "message": "Teacher Meenakshi Singh (RVS143) has 0 periods/week workload for Computer in Class 4."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 4 - Lotus",
+      "subject": "Hindi",
+      "teacherCode": "RVS76",
+      "teacherName": "Seema Khatri",
+      "message": "Teacher Seema Khatri (RVS76) has 0 periods/week workload for Hindi in Class 4."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 4 - Lotus",
+      "subject": "Mathematics",
+      "teacherCode": "100059",
+      "teacherName": "Harsha Talreja",
+      "message": "Teacher Harsha Talreja (100059) has 0 periods/week workload for Mathematics in Class 4."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 4 - Lotus",
+      "subject": "Science",
+      "teacherCode": "100059",
+      "teacherName": "Harsha Talreja",
+      "message": "Teacher Harsha Talreja (100059) has 0 periods/week workload for Science in Class 4."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 5 - Lily",
+      "subject": "Computer",
+      "teacherCode": "RVS143",
+      "teacherName": "Meenakshi Singh",
+      "message": "Teacher Meenakshi Singh (RVS143) has 0 periods/week workload for Computer in Class 5."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 5 - Lily",
+      "subject": "Hindi",
+      "teacherCode": "E2133",
+      "teacherName": "Sujata Naidu",
+      "message": "Teacher Sujata Naidu (E2133) has 0 periods/week workload for Hindi in Class 5."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 5 - Lavender",
+      "subject": "Computer",
+      "teacherCode": "RVS143",
+      "teacherName": "Meenakshi Singh",
+      "message": "Teacher Meenakshi Singh (RVS143) has 0 periods/week workload for Computer in Class 5."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 5 - Lavender",
+      "subject": "Hindi",
+      "teacherCode": "E2133",
+      "teacherName": "Sujata Naidu",
+      "message": "Teacher Sujata Naidu (E2133) has 0 periods/week workload for Hindi in Class 5."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 5 - Lotus",
+      "subject": "Computer",
+      "teacherCode": "RVS143",
+      "teacherName": "Meenakshi Singh",
+      "message": "Teacher Meenakshi Singh (RVS143) has 0 periods/week workload for Computer in Class 5."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 5 - Lotus",
+      "subject": "Hindi",
+      "teacherCode": "E2133",
+      "teacherName": "Sujata Naidu",
+      "message": "Teacher Sujata Naidu (E2133) has 0 periods/week workload for Hindi in Class 5."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 6 - Lily",
+      "subject": "Hindi",
+      "teacherCode": "E2133",
+      "teacherName": "Sujata Naidu",
+      "message": "Teacher Sujata Naidu (E2133) has 0 periods/week workload for Hindi in Class 6."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 6 - Lavender",
+      "subject": "Hindi",
+      "teacherCode": "E2133",
+      "teacherName": "Sujata Naidu",
+      "message": "Teacher Sujata Naidu (E2133) has 0 periods/week workload for Hindi in Class 6."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 7 - Lily",
+      "subject": "Computer",
+      "teacherCode": "E2701",
+      "teacherName": "Harpreet Kaur",
+      "message": "Teacher Harpreet Kaur (E2701) has 0 periods/week workload for Computer in Class 7."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 7 - Lily",
+      "subject": "Hindi",
+      "teacherCode": "E2133",
+      "teacherName": "Sujata Naidu",
+      "message": "Teacher Sujata Naidu (E2133) has 0 periods/week workload for Hindi in Class 7."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 8 - Lily",
+      "subject": "Biology",
+      "teacherCode": "RVS67",
+      "teacherName": "Namita Nikam",
+      "message": "Teacher Namita Nikam (RVS67) has 0 periods/week workload for Biology in Class 8."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 8 - Lily",
+      "subject": "Chemistry",
+      "teacherCode": "RVS159",
+      "teacherName": "Saksham Sharma",
+      "message": "Teacher Saksham Sharma (RVS159) has 0 periods/week workload for Chemistry in Class 8."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 8 - Lily",
+      "subject": "Computer",
+      "teacherCode": "E2701",
+      "teacherName": "Harpreet Kaur",
+      "message": "Teacher Harpreet Kaur (E2701) has 0 periods/week workload for Computer in Class 8."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 8 - Lily",
+      "subject": "Hindi",
+      "teacherCode": "E2133",
+      "teacherName": "Sujata Naidu",
+      "message": "Teacher Sujata Naidu (E2133) has 0 periods/week workload for Hindi in Class 8."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 9 - Lily",
+      "subject": "Biology",
+      "teacherCode": "RVS67",
+      "teacherName": "Namita Nikam",
+      "message": "Teacher Namita Nikam (RVS67) has 0 periods/week workload for Biology in Class 9."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 9 - Lily",
+      "subject": "Chemistry",
+      "teacherCode": "RVS159",
+      "teacherName": "Saksham Sharma",
+      "message": "Teacher Saksham Sharma (RVS159) has 0 periods/week workload for Chemistry in Class 9."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 9 - Lily",
+      "subject": "Computer",
+      "teacherCode": "E2701",
+      "teacherName": "Harpreet Kaur",
+      "message": "Teacher Harpreet Kaur (E2701) has 0 periods/week workload for Computer in Class 9."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 9 - Lily",
+      "subject": "Hindi",
+      "teacherCode": "E2133",
+      "teacherName": "Sujata Naidu",
+      "message": "Teacher Sujata Naidu (E2133) has 0 periods/week workload for Hindi in Class 9."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 9 - Lily",
+      "subject": "Mathematics",
+      "teacherCode": "RVS115",
+      "teacherName": "Ashish Thakur",
+      "message": "Teacher Ashish Thakur (RVS115) has 0 periods/week workload for Mathematics in Class 9."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 9 - Lily",
+      "subject": "Physical Education",
+      "teacherCode": "E2336",
+      "teacherName": "Mohd Fazal Rehman",
+      "message": "Teacher Mohd Fazal Rehman (E2336) has 0 periods/week workload for Physical Education in Class 9."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 9 - Lavender",
+      "subject": "Biology",
+      "teacherCode": "RVS67",
+      "teacherName": "Namita Nikam",
+      "message": "Teacher Namita Nikam (RVS67) has 0 periods/week workload for Biology in Class 9."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 9 - Lavender",
+      "subject": "Chemistry",
+      "teacherCode": "RVS159",
+      "teacherName": "Saksham Sharma",
+      "message": "Teacher Saksham Sharma (RVS159) has 0 periods/week workload for Chemistry in Class 9."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 9 - Lavender",
+      "subject": "Computer",
+      "teacherCode": "E2701",
+      "teacherName": "Harpreet Kaur",
+      "message": "Teacher Harpreet Kaur (E2701) has 0 periods/week workload for Computer in Class 9."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 9 - Lavender",
+      "subject": "Hindi",
+      "teacherCode": "E2133",
+      "teacherName": "Sujata Naidu",
+      "message": "Teacher Sujata Naidu (E2133) has 0 periods/week workload for Hindi in Class 9."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 9 - Lavender",
+      "subject": "Mathematics",
+      "teacherCode": "RVS115",
+      "teacherName": "Ashish Thakur",
+      "message": "Teacher Ashish Thakur (RVS115) has 0 periods/week workload for Mathematics in Class 9."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 9 - Lavender",
+      "subject": "Physical Education",
+      "teacherCode": "E2336",
+      "teacherName": "Mohd Fazal Rehman",
+      "message": "Teacher Mohd Fazal Rehman (E2336) has 0 periods/week workload for Physical Education in Class 9."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 10 - Lily",
+      "subject": "Biology",
+      "teacherCode": "RVS67",
+      "teacherName": "Namita Nikam",
+      "message": "Teacher Namita Nikam (RVS67) has 0 periods/week workload for Biology in Class 10."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 10 - Lily",
+      "subject": "Chemistry",
+      "teacherCode": "RVS159",
+      "teacherName": "Saksham Sharma",
+      "message": "Teacher Saksham Sharma (RVS159) has 0 periods/week workload for Chemistry in Class 10."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 10 - Lily",
+      "subject": "Computer",
+      "teacherCode": "E2701",
+      "teacherName": "Harpreet Kaur",
+      "message": "Teacher Harpreet Kaur (E2701) has 0 periods/week workload for Computer in Class 10."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 10 - Lily",
+      "subject": "Hindi",
+      "teacherCode": "E2133",
+      "teacherName": "Sujata Naidu",
+      "message": "Teacher Sujata Naidu (E2133) has 0 periods/week workload for Hindi in Class 10."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 10 - Lily",
+      "subject": "Mathematics",
+      "teacherCode": "RVS115",
+      "teacherName": "Ashish Thakur",
+      "message": "Teacher Ashish Thakur (RVS115) has 0 periods/week workload for Mathematics in Class 10."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 10 - Lily",
+      "subject": "Physical Education",
+      "teacherCode": "E2336",
+      "teacherName": "Mohd Fazal Rehman",
+      "message": "Teacher Mohd Fazal Rehman (E2336) has 0 periods/week workload for Physical Education in Class 10."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 10 - Lavender",
+      "subject": "Biology",
+      "teacherCode": "RVS67",
+      "teacherName": "Namita Nikam",
+      "message": "Teacher Namita Nikam (RVS67) has 0 periods/week workload for Biology in Class 10."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 10 - Lavender",
+      "subject": "Chemistry",
+      "teacherCode": "RVS159",
+      "teacherName": "Saksham Sharma",
+      "message": "Teacher Saksham Sharma (RVS159) has 0 periods/week workload for Chemistry in Class 10."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 10 - Lavender",
+      "subject": "Computer",
+      "teacherCode": "E2701",
+      "teacherName": "Harpreet Kaur",
+      "message": "Teacher Harpreet Kaur (E2701) has 0 periods/week workload for Computer in Class 10."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 10 - Lavender",
+      "subject": "Hindi",
+      "teacherCode": "E2133",
+      "teacherName": "Sujata Naidu",
+      "message": "Teacher Sujata Naidu (E2133) has 0 periods/week workload for Hindi in Class 10."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 10 - Lavender",
+      "subject": "Mathematics",
+      "teacherCode": "RVS115",
+      "teacherName": "Ashish Thakur",
+      "message": "Teacher Ashish Thakur (RVS115) has 0 periods/week workload for Mathematics in Class 10."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 10 - Lavender",
+      "subject": "Physical Education",
+      "teacherCode": "E2336",
+      "teacherName": "Mohd Fazal Rehman",
+      "message": "Teacher Mohd Fazal Rehman (E2336) has 0 periods/week workload for Physical Education in Class 10."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 11 - Lily",
+      "subject": "Business Studies",
+      "teacherCode": "RVS189",
+      "teacherName": "Neha Guha",
+      "message": "Teacher Neha Guha (RVS189) has 0 periods/week workload for Business Studies in Class 11."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 11 - Lily",
+      "subject": "Games",
+      "teacherCode": "E2336",
+      "teacherName": "Mohd Fazal Rehman",
+      "message": "Teacher Mohd Fazal Rehman (E2336) has 0 periods/week workload for Games in Class 11."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 11 - Lavender",
+      "subject": "Business Studies",
+      "teacherCode": "RVS189",
+      "teacherName": "Neha Guha",
+      "message": "Teacher Neha Guha (RVS189) has 0 periods/week workload for Business Studies in Class 11."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 11 - Lavender",
+      "subject": "Games",
+      "teacherCode": "E2336",
+      "teacherName": "Mohd Fazal Rehman",
+      "message": "Teacher Mohd Fazal Rehman (E2336) has 0 periods/week workload for Games in Class 11."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 12 - Lily",
+      "subject": "Business Studies",
+      "teacherCode": "RVS189",
+      "teacherName": "Neha Guha",
+      "message": "Teacher Neha Guha (RVS189) has 0 periods/week workload for Business Studies in Class 12."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 12 - Lily",
+      "subject": "Games",
+      "teacherCode": "E2336",
+      "teacherName": "Mohd Fazal Rehman",
+      "message": "Teacher Mohd Fazal Rehman (E2336) has 0 periods/week workload for Games in Class 12."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 12 - Lavender",
+      "subject": "Business Studies",
+      "teacherCode": "RVS189",
+      "teacherName": "Neha Guha",
+      "message": "Teacher Neha Guha (RVS189) has 0 periods/week workload for Business Studies in Class 12."
+    },
+    {
+      "type": "ZERO_WORKLOAD",
+      "section": "Grade 12 - Lavender",
+      "subject": "Games",
+      "teacherCode": "E2336",
+      "teacherName": "Mohd Fazal Rehman",
+      "message": "Teacher Mohd Fazal Rehman (E2336) has 0 periods/week workload for Games in Class 12."
+    }
+  ],
+  "schedulingConflicts": [
+    "The CP-SAT solver determined that the problem is INFEASIBLE with the given hard constraints and assignments."
+  ],
+  "sectionTimetables": {},
+  "teacherTimetables": {},
+  "validation": {
+    "hardConstraintsSatisfied": true,
+    "softConstraintPenalty": 0,
+    "violatedSoftConstraints": []
+  }
+}

@@ -1,0 +1,1146 @@
+[
+  {
+    "ClassName": "Class 1",
+    "SubjectName": "English",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 8,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 1",
+    "SubjectName": "G.K./Moral",
+    "Type": "Subject",
+    "PeriodsPerDay": 1,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 1",
+    "SubjectName": "Mathematics",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 8,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 1",
+    "SubjectName": "E.V.S.",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 8,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 1",
+    "SubjectName": "Art Education",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 1",
+    "SubjectName": "Games / Library",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 1",
+    "SubjectName": "Communication",
+    "Type": "Subject",
+    "PeriodsPerDay": 1,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 1",
+    "SubjectName": "Computer",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 1",
+    "SubjectName": "Karate / Gymnastics / Skating",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 1",
+    "SubjectName": "Happy Feet",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 1",
+    "SubjectName": "Hindi",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 8,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 2",
+    "SubjectName": "Art Education",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 2",
+    "SubjectName": "Communication",
+    "Type": "Subject",
+    "PeriodsPerDay": 1,
+    "PeriodsPerWeek": 3,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 2",
+    "SubjectName": "Computer",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 2",
+    "SubjectName": "E.V.S.",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 8,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 2",
+    "SubjectName": "English Language",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 5,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 2",
+    "SubjectName": "English Literature",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 5,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 2",
+    "SubjectName": "G.K./Moral",
+    "Type": "Subject",
+    "PeriodsPerDay": 1,
+    "PeriodsPerWeek": 3,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 2",
+    "SubjectName": "Hindi",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 2",
+    "SubjectName": "Hindi Vyakaran",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 2",
+    "SubjectName": "Mathematics",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 9,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 2",
+    "SubjectName": "Happy Feet",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 3,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 2",
+    "SubjectName": "Karate / Gymnastics / Skating",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 3",
+    "SubjectName": "Art Education",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 3",
+    "SubjectName": "Communication",
+    "Type": "Subject",
+    "PeriodsPerDay": 1,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 3",
+    "SubjectName": "Computer",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 3",
+    "SubjectName": "English Language",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 5,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 3",
+    "SubjectName": "English Literature",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 3",
+    "SubjectName": "G.K./Moral",
+    "Type": "Subject",
+    "PeriodsPerDay": 1,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 3",
+    "SubjectName": "Hindi",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 3",
+    "SubjectName": "Hindi Vyakaran",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 3",
+    "SubjectName": "Mathematics",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 9,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 3",
+    "SubjectName": "Science",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 6,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 3",
+    "SubjectName": "Social Studies",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 6,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 3",
+    "SubjectName": "Happy Feet",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 3",
+    "SubjectName": "Karate / Gymnastics / Skating",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 4",
+    "SubjectName": "Art Education",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 4",
+    "SubjectName": "Communication",
+    "Type": "Subject",
+    "PeriodsPerDay": 1,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 4",
+    "SubjectName": "Computer",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 4",
+    "SubjectName": "English Language",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 5,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 4",
+    "SubjectName": "English Literature",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 4",
+    "SubjectName": "G.K./Moral",
+    "Type": "Subject",
+    "PeriodsPerDay": 1,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 4",
+    "SubjectName": "Hindi",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 4",
+    "SubjectName": "Hindi Vyakaran",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 4",
+    "SubjectName": "Mathematics",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 9,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 4",
+    "SubjectName": "Science",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 6,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 4",
+    "SubjectName": "Social Studies",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 6,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 4",
+    "SubjectName": "Karate / Gymnastics / Band / Skating",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 4",
+    "SubjectName": "Robotics / Abacus",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 5",
+    "SubjectName": "Art Education",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 5",
+    "SubjectName": "Communication",
+    "Type": "Subject",
+    "PeriodsPerDay": 1,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 5",
+    "SubjectName": "Computer",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 5",
+    "SubjectName": "English Language",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 5,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 5",
+    "SubjectName": "English Literature",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 5",
+    "SubjectName": "G.K./Moral",
+    "Type": "Subject",
+    "PeriodsPerDay": 1,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 5",
+    "SubjectName": "Hindi",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 5",
+    "SubjectName": "Hindi Vyakaran",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 5",
+    "SubjectName": "Mathematics",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 7,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 5",
+    "SubjectName": "Science",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 6,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 5",
+    "SubjectName": "Social Studies",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 6,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 5",
+    "SubjectName": "Karate / Gymnastics / Band / Skating",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 5",
+    "SubjectName": "Sanskrit / French / Robotics / Abacus / Entrepreneurship",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 6",
+    "SubjectName": "Sanskrit / French / Robotics / Abacus / Entrepreneurship",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 6",
+    "SubjectName": "Karate / Gymnastics / Band / Skating",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 6",
+    "SubjectName": "Art Education",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 6",
+    "SubjectName": "Biology",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 6",
+    "SubjectName": "Chemistry",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 6",
+    "SubjectName": "Computer",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 6",
+    "SubjectName": "English Language",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 6",
+    "SubjectName": "English Literature",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 6",
+    "SubjectName": "G.K./Moral",
+    "Type": "Subject",
+    "PeriodsPerDay": 1,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 6",
+    "SubjectName": "Geography",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 6",
+    "SubjectName": "Hindi",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 6",
+    "SubjectName": "Hindi Vyakaran",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 6",
+    "SubjectName": "History",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 6",
+    "SubjectName": "Mathematics",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 6,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 6",
+    "SubjectName": "Physics",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 7",
+    "SubjectName": "Art Education",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 7",
+    "SubjectName": "Biology",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 7",
+    "SubjectName": "Chemistry",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 7",
+    "SubjectName": "Computer",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 7",
+    "SubjectName": "English Language",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 3,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 7",
+    "SubjectName": "English Literature",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 5,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 7",
+    "SubjectName": "Geography",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 7",
+    "SubjectName": "Hindi",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 5,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 7",
+    "SubjectName": "Hindi Vyakaran",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 7",
+    "SubjectName": "History",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 7",
+    "SubjectName": "Mathematics",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 9,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 7",
+    "SubjectName": "Physics",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 7",
+    "SubjectName": "Games / Library",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 8",
+    "SubjectName": "Art Education",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 8",
+    "SubjectName": "Biology",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 8",
+    "SubjectName": "Chemistry",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 8",
+    "SubjectName": "Computer",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 8",
+    "SubjectName": "English Language",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 3,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 8",
+    "SubjectName": "English Literature",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 5,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 8",
+    "SubjectName": "Geography",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 8",
+    "SubjectName": "Hindi",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 5,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 8",
+    "SubjectName": "Hindi Vyakaran",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 8",
+    "SubjectName": "History",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 8",
+    "SubjectName": "Mathematics",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 9,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 8",
+    "SubjectName": "Physics",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 8",
+    "SubjectName": "Games / Library",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 9",
+    "SubjectName": "Biology",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 9",
+    "SubjectName": "Chemistry",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 9",
+    "SubjectName": "Computer",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 9",
+    "SubjectName": "English Language",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 3,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 9",
+    "SubjectName": "English Literature",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 3,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 9",
+    "SubjectName": "Geography",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 9",
+    "SubjectName": "Hindi",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 9",
+    "SubjectName": "History",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 5,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 9",
+    "SubjectName": "Mathematics",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 9,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 9",
+    "SubjectName": "Physical Education",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 9",
+    "SubjectName": "Physics",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 9",
+    "SubjectName": "Games / Library",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 10",
+    "SubjectName": "Biology",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 10",
+    "SubjectName": "Chemistry",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 10",
+    "SubjectName": "Computer",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 10",
+    "SubjectName": "English Language",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 3,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 10",
+    "SubjectName": "English Literature",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 3,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 10",
+    "SubjectName": "Geography",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 10",
+    "SubjectName": "Hindi",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 10",
+    "SubjectName": "History",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 5,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 10",
+    "SubjectName": "Mathematics",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 9,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 10",
+    "SubjectName": "Physical Education",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 10",
+    "SubjectName": "Physics",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 10",
+    "SubjectName": "Games / Library",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 11",
+    "SubjectName": "Accounts",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 11,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 11",
+    "SubjectName": "Business Studies",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 11,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 11",
+    "SubjectName": "Economics",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 10,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 11",
+    "SubjectName": "English Language",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 5,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 11",
+    "SubjectName": "English Literature",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 7,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 11",
+    "SubjectName": "Games",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 11",
+    "SubjectName": "Library",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 11",
+    "SubjectName": "Games / Library",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": true
+  },
+  {
+    "ClassName": "Class 12",
+    "SubjectName": "Accounts",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 11,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 12",
+    "SubjectName": "Business Studies",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 11,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 12",
+    "SubjectName": "Economics",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 10,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 12",
+    "SubjectName": "English Language",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 5,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 12",
+    "SubjectName": "English Literature",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 7,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 12",
+    "SubjectName": "Games",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 12",
+    "SubjectName": "Library",
+    "Type": "Subject",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 2,
+    "IsActivity": false
+  },
+  {
+    "ClassName": "Class 12",
+    "SubjectName": "Games / Library",
+    "Type": "Activity Group",
+    "PeriodsPerDay": 2,
+    "PeriodsPerWeek": 4,
+    "IsActivity": true
+  }
+]

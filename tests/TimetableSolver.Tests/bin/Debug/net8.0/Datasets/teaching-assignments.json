@@ -1,0 +1,1472 @@
+[
+  {
+    "TeacherCode": "002",
+    "TeacherName": "Ruchi Singh",
+    "ClassName": "Class 1",
+    "SubjectName": "Art Education",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "002",
+    "TeacherName": "Ruchi Singh",
+    "ClassName": "Class 2",
+    "SubjectName": "Art Education",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "002",
+    "TeacherName": "Ruchi Singh",
+    "ClassName": "Class 7",
+    "SubjectName": "Art Education",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "100047",
+    "TeacherName": "Ritika Malviya",
+    "ClassName": "Class 3",
+    "SubjectName": "Communication",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "100047",
+    "TeacherName": "Ritika Malviya",
+    "ClassName": "Class 3",
+    "SubjectName": "G.K./Moral",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "100047",
+    "TeacherName": "Ritika Malviya",
+    "ClassName": "Class 4",
+    "SubjectName": "G.K./Moral",
+    "PeriodsPerWeekTotal": 15
+  },
+  {
+    "TeacherCode": "100047",
+    "TeacherName": "Ritika Malviya",
+    "ClassName": "Class 6",
+    "SubjectName": "English",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "100047",
+    "TeacherName": "Ritika Malviya",
+    "ClassName": "Class 7",
+    "SubjectName": "English",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "100047",
+    "TeacherName": "Ritika Malviya",
+    "ClassName": "Class 8",
+    "SubjectName": "English",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "100048",
+    "TeacherName": "P Aliya Aliya Papua",
+    "ClassName": "Class 2",
+    "SubjectName": "Communication",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "100048",
+    "TeacherName": "P Aliya Aliya Papua",
+    "ClassName": "Class 2",
+    "SubjectName": "English",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "100049",
+    "TeacherName": "Jyoti Solanki",
+    "ClassName": "Class 5",
+    "SubjectName": "Hindi",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "100049",
+    "TeacherName": "Jyoti Solanki",
+    "ClassName": "Class 6",
+    "SubjectName": "Hindi",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "100052",
+    "TeacherName": "Prarthana Goswami",
+    "ClassName": "Class 2",
+    "SubjectName": "Mathematics",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "100059",
+    "TeacherName": "Harsha Talreja",
+    "ClassName": "Class 4",
+    "SubjectName": "Mathematics",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "100059",
+    "TeacherName": "Harsha Talreja",
+    "ClassName": "Class 4",
+    "SubjectName": "Science",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "100091",
+    "TeacherName": "Ayushi Sharma",
+    "ClassName": "Class 1",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "100091",
+    "TeacherName": "Ayushi Sharma",
+    "ClassName": "Class 2",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "100091",
+    "TeacherName": "Ayushi Sharma",
+    "ClassName": "Class 3",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "100091",
+    "TeacherName": "Ayushi Sharma",
+    "ClassName": "Class 4",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 15
+  },
+  {
+    "TeacherCode": "100091",
+    "TeacherName": "Ayushi Sharma",
+    "ClassName": "Class 5",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "100091",
+    "TeacherName": "Ayushi Sharma",
+    "ClassName": "Class 7",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "E1014",
+    "TeacherName": "Laxmi Ghatt",
+    "ClassName": "Class 6",
+    "SubjectName": "Art Education",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "E1014",
+    "TeacherName": "Laxmi Ghatt",
+    "ClassName": "Class 7",
+    "SubjectName": "Art Education",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "E1014",
+    "TeacherName": "Laxmi Ghatt",
+    "ClassName": "Class 8",
+    "SubjectName": "Art Education",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "E1014",
+    "TeacherName": "Laxmi Ghatt",
+    "ClassName": "Class 9",
+    "SubjectName": "Art Education",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "E1014",
+    "TeacherName": "Laxmi Ghatt",
+    "ClassName": "Class 10",
+    "SubjectName": "Art Education",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "E1014",
+    "TeacherName": "Laxmi Ghatt",
+    "ClassName": "Class 11",
+    "SubjectName": "Art Education",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "E1014",
+    "TeacherName": "Laxmi Ghatt",
+    "ClassName": "Class 12",
+    "SubjectName": "Art Education",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "E2133",
+    "TeacherName": "Sujata Naidu",
+    "ClassName": "Class 5",
+    "SubjectName": "Hindi",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2133",
+    "TeacherName": "Sujata Naidu",
+    "ClassName": "Class 5",
+    "SubjectName": "Sanskrit",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2133",
+    "TeacherName": "Sujata Naidu",
+    "ClassName": "Class 6",
+    "SubjectName": "Hindi",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2133",
+    "TeacherName": "Sujata Naidu",
+    "ClassName": "Class 6",
+    "SubjectName": "Sanskrit",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2133",
+    "TeacherName": "Sujata Naidu",
+    "ClassName": "Class 7",
+    "SubjectName": "Hindi",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2133",
+    "TeacherName": "Sujata Naidu",
+    "ClassName": "Class 7",
+    "SubjectName": "Sanskrit",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2133",
+    "TeacherName": "Sujata Naidu",
+    "ClassName": "Class 8",
+    "SubjectName": "Hindi",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2133",
+    "TeacherName": "Sujata Naidu",
+    "ClassName": "Class 8",
+    "SubjectName": "Sanskrit",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2133",
+    "TeacherName": "Sujata Naidu",
+    "ClassName": "Class 9",
+    "SubjectName": "Hindi",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2133",
+    "TeacherName": "Sujata Naidu",
+    "ClassName": "Class 10",
+    "SubjectName": "Hindi",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2336",
+    "TeacherName": "Mohd Fazal Rehman",
+    "ClassName": "Class 4",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2336",
+    "TeacherName": "Mohd Fazal Rehman",
+    "ClassName": "Class 5",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2336",
+    "TeacherName": "Mohd Fazal Rehman",
+    "ClassName": "Class 6",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2336",
+    "TeacherName": "Mohd Fazal Rehman",
+    "ClassName": "Class 7",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2336",
+    "TeacherName": "Mohd Fazal Rehman",
+    "ClassName": "Class 8",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2336",
+    "TeacherName": "Mohd Fazal Rehman",
+    "ClassName": "Class 9",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2336",
+    "TeacherName": "Mohd Fazal Rehman",
+    "ClassName": "Class 9",
+    "SubjectName": "Physical Education",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2336",
+    "TeacherName": "Mohd Fazal Rehman",
+    "ClassName": "Class 10",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2336",
+    "TeacherName": "Mohd Fazal Rehman",
+    "ClassName": "Class 10",
+    "SubjectName": "Physical Education",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2336",
+    "TeacherName": "Mohd Fazal Rehman",
+    "ClassName": "Class 11",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2336",
+    "TeacherName": "Mohd Fazal Rehman",
+    "ClassName": "Class 11",
+    "SubjectName": "Physical Education",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2336",
+    "TeacherName": "Mohd Fazal Rehman",
+    "ClassName": "Class 12",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2336",
+    "TeacherName": "Mohd Fazal Rehman",
+    "ClassName": "Class 12",
+    "SubjectName": "Physical Education",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2628",
+    "TeacherName": "Kavita A",
+    "ClassName": "Class 4",
+    "SubjectName": "Library",
+    "PeriodsPerWeekTotal": 15
+  },
+  {
+    "TeacherCode": "E2628",
+    "TeacherName": "Kavita A",
+    "ClassName": "Class 5",
+    "SubjectName": "Library",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "E2628",
+    "TeacherName": "Kavita A",
+    "ClassName": "Class 6",
+    "SubjectName": "Geography",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "E2628",
+    "TeacherName": "Kavita A",
+    "ClassName": "Class 7",
+    "SubjectName": "Geography",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "E2628",
+    "TeacherName": "Kavita A",
+    "ClassName": "Class 7",
+    "SubjectName": "Library",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "E2628",
+    "TeacherName": "Kavita A",
+    "ClassName": "Class 8",
+    "SubjectName": "Geography",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "E2628",
+    "TeacherName": "Kavita A",
+    "ClassName": "Class 9",
+    "SubjectName": "Geography",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "E2628",
+    "TeacherName": "Kavita A",
+    "ClassName": "Class 10",
+    "SubjectName": "Geography",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "E2628",
+    "TeacherName": "Kavita A",
+    "ClassName": "Class 11",
+    "SubjectName": "Library",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "E2628",
+    "TeacherName": "Kavita A",
+    "ClassName": "Class 12",
+    "SubjectName": "Library",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "E2701",
+    "TeacherName": "Harpreet Kaur",
+    "ClassName": "Class 7",
+    "SubjectName": "Computer",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2701",
+    "TeacherName": "Harpreet Kaur",
+    "ClassName": "Class 8",
+    "SubjectName": "Computer",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2701",
+    "TeacherName": "Harpreet Kaur",
+    "ClassName": "Class 9",
+    "SubjectName": "Computer",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2701",
+    "TeacherName": "Harpreet Kaur",
+    "ClassName": "Class 10",
+    "SubjectName": "Computer",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2701",
+    "TeacherName": "Harpreet Kaur",
+    "ClassName": "Class 11",
+    "SubjectName": "Computer",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2701",
+    "TeacherName": "Harpreet Kaur",
+    "ClassName": "Class 12",
+    "SubjectName": "Computer",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "E2787",
+    "TeacherName": "Rajni Soni",
+    "ClassName": "Class 5",
+    "SubjectName": "Communication",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "E2787",
+    "TeacherName": "Rajni Soni",
+    "ClassName": "Class 5",
+    "SubjectName": "G.K./Moral",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "E2787",
+    "TeacherName": "Rajni Soni",
+    "ClassName": "Class 5",
+    "SubjectName": "Mathematics",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "E2787",
+    "TeacherName": "Rajni Soni",
+    "ClassName": "Class 5",
+    "SubjectName": "Social Studies",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "E2904",
+    "TeacherName": "Priyanka Rana",
+    "ClassName": "Class 1",
+    "SubjectName": "English",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "GEN-2745",
+    "TeacherName": "Firdosh .",
+    "ClassName": "Class 5",
+    "SubjectName": "French",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "GEN-2745",
+    "TeacherName": "Firdosh .",
+    "ClassName": "Class 6",
+    "SubjectName": "French",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "GEN-2745",
+    "TeacherName": "Firdosh .",
+    "ClassName": "Class 7",
+    "SubjectName": "French",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "GEN-2745",
+    "TeacherName": "Firdosh .",
+    "ClassName": "Class 8",
+    "SubjectName": "French",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "GEN-3812",
+    "TeacherName": "Arunav Kishor",
+    "ClassName": "Class 4",
+    "SubjectName": "Robotics",
+    "PeriodsPerWeekTotal": 15
+  },
+  {
+    "TeacherCode": "GEN-3812",
+    "TeacherName": "Arunav Kishor",
+    "ClassName": "Class 5",
+    "SubjectName": "Robotics",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "GEN-3812",
+    "TeacherName": "Arunav Kishor",
+    "ClassName": "Class 6",
+    "SubjectName": "Robotics",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "GEN-3812",
+    "TeacherName": "Arunav Kishor",
+    "ClassName": "Class 7",
+    "SubjectName": "Robotics",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "GEN-3812",
+    "TeacherName": "Arunav Kishor",
+    "ClassName": "Class 8",
+    "SubjectName": "Robotics",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "GEN-7649",
+    "TeacherName": "Priyanka Singh",
+    "ClassName": "Class 6",
+    "SubjectName": "Mathematics",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "GEN-7649",
+    "TeacherName": "Priyanka Singh",
+    "ClassName": "Class 6",
+    "SubjectName": "Physics",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "GEN-7649",
+    "TeacherName": "Priyanka Singh",
+    "ClassName": "Class 7",
+    "SubjectName": "Mathematics",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "GEN-7649",
+    "TeacherName": "Priyanka Singh",
+    "ClassName": "Class 7",
+    "SubjectName": "Physics",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "GEN-9148",
+    "TeacherName": "Anjali Dewangan",
+    "ClassName": "Class 4",
+    "SubjectName": "Abacus",
+    "PeriodsPerWeekTotal": 15
+  },
+  {
+    "TeacherCode": "GEN-9148",
+    "TeacherName": "Anjali Dewangan",
+    "ClassName": "Class 5",
+    "SubjectName": "Abacus",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "GEN-9148",
+    "TeacherName": "Anjali Dewangan",
+    "ClassName": "Class 6",
+    "SubjectName": "Abacus",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "GEN-9148",
+    "TeacherName": "Anjali Dewangan",
+    "ClassName": "Class 7",
+    "SubjectName": "Abacus",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "GEN-9148",
+    "TeacherName": "Anjali Dewangan",
+    "ClassName": "Class 8",
+    "SubjectName": "Abacus",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "RVS06",
+    "TeacherName": "Harshita Malviya",
+    "ClassName": "Class 1",
+    "SubjectName": "Mathematics",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS09",
+    "TeacherName": "Dhanu Priya Kolte",
+    "ClassName": "Class 3",
+    "SubjectName": "Hindi",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS09",
+    "TeacherName": "Dhanu Priya Kolte",
+    "ClassName": "Class 4",
+    "SubjectName": "Hindi",
+    "PeriodsPerWeekTotal": 15
+  },
+  {
+    "TeacherCode": "RVS54",
+    "TeacherName": "Ruhamah David",
+    "ClassName": "Class 9",
+    "SubjectName": "Economics",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS54",
+    "TeacherName": "Ruhamah David",
+    "ClassName": "Class 10",
+    "SubjectName": "Economics",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS54",
+    "TeacherName": "Ruhamah David",
+    "ClassName": "Class 11",
+    "SubjectName": "Economics",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS54",
+    "TeacherName": "Ruhamah David",
+    "ClassName": "Class 12",
+    "SubjectName": "Economics",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS67",
+    "TeacherName": "Namita Nikam",
+    "ClassName": "Class 8",
+    "SubjectName": "Biology",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS67",
+    "TeacherName": "Namita Nikam",
+    "ClassName": "Class 9",
+    "SubjectName": "Biology",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS67",
+    "TeacherName": "Namita Nikam",
+    "ClassName": "Class 10",
+    "SubjectName": "Biology",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS67",
+    "TeacherName": "Namita Nikam",
+    "ClassName": "Class 11",
+    "SubjectName": "Biology",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS67",
+    "TeacherName": "Namita Nikam",
+    "ClassName": "Class 12",
+    "SubjectName": "Biology",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS76",
+    "TeacherName": "Seema Khatri",
+    "ClassName": "Class 1",
+    "SubjectName": "Communication",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS76",
+    "TeacherName": "Seema Khatri",
+    "ClassName": "Class 2",
+    "SubjectName": "Hindi",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS76",
+    "TeacherName": "Seema Khatri",
+    "ClassName": "Class 4",
+    "SubjectName": "Hindi",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS81",
+    "TeacherName": "Prajakta Dhandore",
+    "ClassName": "Class 1",
+    "SubjectName": "Dance",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS81",
+    "TeacherName": "Prajakta Dhandore",
+    "ClassName": "Class 2",
+    "SubjectName": "Dance",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS81",
+    "TeacherName": "Prajakta Dhandore",
+    "ClassName": "Class 3",
+    "SubjectName": "Dance",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS81",
+    "TeacherName": "Prajakta Dhandore",
+    "ClassName": "Class 4",
+    "SubjectName": "Dance",
+    "PeriodsPerWeekTotal": 15
+  },
+  {
+    "TeacherCode": "RVS81",
+    "TeacherName": "Prajakta Dhandore",
+    "ClassName": "Class 5",
+    "SubjectName": "Dance",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS81",
+    "TeacherName": "Prajakta Dhandore",
+    "ClassName": "Class 6",
+    "SubjectName": "Dance",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS81",
+    "TeacherName": "Prajakta Dhandore",
+    "ClassName": "Class 7",
+    "SubjectName": "Dance",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "RVS81",
+    "TeacherName": "Prajakta Dhandore",
+    "ClassName": "Class 8",
+    "SubjectName": "Dance",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "RVS85",
+    "TeacherName": "Anjulika Singh",
+    "ClassName": "Class 4",
+    "SubjectName": "Entrepreneurship",
+    "PeriodsPerWeekTotal": 15
+  },
+  {
+    "TeacherCode": "RVS85",
+    "TeacherName": "Anjulika Singh",
+    "ClassName": "Class 5",
+    "SubjectName": "Entrepreneurship",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS85",
+    "TeacherName": "Anjulika Singh",
+    "ClassName": "Class 6",
+    "SubjectName": "Entrepreneurship",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS85",
+    "TeacherName": "Anjulika Singh",
+    "ClassName": "Class 7",
+    "SubjectName": "Entrepreneurship",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "RVS85",
+    "TeacherName": "Anjulika Singh",
+    "ClassName": "Class 8",
+    "SubjectName": "Entrepreneurship",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "RVS85",
+    "TeacherName": "Anjulika Singh",
+    "ClassName": "Class 9",
+    "SubjectName": "Accounts",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS85",
+    "TeacherName": "Anjulika Singh",
+    "ClassName": "Class 10",
+    "SubjectName": "Accounts",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS85",
+    "TeacherName": "Anjulika Singh",
+    "ClassName": "Class 11",
+    "SubjectName": "Accounts",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS85",
+    "TeacherName": "Anjulika Singh",
+    "ClassName": "Class 12",
+    "SubjectName": "Accounts",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS95",
+    "TeacherName": "Preeti Muchhal",
+    "ClassName": "Class 3",
+    "SubjectName": "Social Studies",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS95",
+    "TeacherName": "Preeti Muchhal",
+    "ClassName": "Class 4",
+    "SubjectName": "Social Studies",
+    "PeriodsPerWeekTotal": 15
+  },
+  {
+    "TeacherCode": "RVS115",
+    "TeacherName": "Ashish Thakur",
+    "ClassName": "Class 9",
+    "SubjectName": "Mathematics",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS115",
+    "TeacherName": "Ashish Thakur",
+    "ClassName": "Class 10",
+    "SubjectName": "Mathematics",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS115",
+    "TeacherName": "Ashish Thakur",
+    "ClassName": "Class 11",
+    "SubjectName": "Mathematics",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS115",
+    "TeacherName": "Ashish Thakur",
+    "ClassName": "Class 12",
+    "SubjectName": "Mathematics",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS136",
+    "TeacherName": "Shashi Shukla",
+    "ClassName": "Class 8",
+    "SubjectName": "Physics",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "RVS136",
+    "TeacherName": "Shashi Shukla",
+    "ClassName": "Class 9",
+    "SubjectName": "Physics",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS136",
+    "TeacherName": "Shashi Shukla",
+    "ClassName": "Class 10",
+    "SubjectName": "Physics",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS136",
+    "TeacherName": "Shashi Shukla",
+    "ClassName": "Class 11",
+    "SubjectName": "Physics",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS136",
+    "TeacherName": "Shashi Shukla",
+    "ClassName": "Class 12",
+    "SubjectName": "Physics",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS143",
+    "TeacherName": "Meenakshi Singh",
+    "ClassName": "Class 3",
+    "SubjectName": "Computer",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS143",
+    "TeacherName": "Meenakshi Singh",
+    "ClassName": "Class 4",
+    "SubjectName": "Computer",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS143",
+    "TeacherName": "Meenakshi Singh",
+    "ClassName": "Class 5",
+    "SubjectName": "Computer",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS148",
+    "TeacherName": "Neelam Pawar Digarse",
+    "ClassName": "Class 1",
+    "SubjectName": "Computer",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS148",
+    "TeacherName": "Neelam Pawar Digarse",
+    "ClassName": "Class 2",
+    "SubjectName": "Computer",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS148",
+    "TeacherName": "Neelam Pawar Digarse",
+    "ClassName": "Class 3",
+    "SubjectName": "Computer",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS148",
+    "TeacherName": "Neelam Pawar Digarse",
+    "ClassName": "Class 6",
+    "SubjectName": "Computer",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS149",
+    "TeacherName": "Pratha Choubey",
+    "ClassName": "Class 2",
+    "SubjectName": "Communication",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS149",
+    "TeacherName": "Pratha Choubey",
+    "ClassName": "Class 2",
+    "SubjectName": "E.V.S.",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS150",
+    "TeacherName": "Sugatha Unnithan",
+    "ClassName": "Class 1",
+    "SubjectName": "Communication",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS150",
+    "TeacherName": "Sugatha Unnithan",
+    "ClassName": "Class 3",
+    "SubjectName": "English",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS154",
+    "TeacherName": "Soma Dinda",
+    "ClassName": "Class 2",
+    "SubjectName": "Communication",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS154",
+    "TeacherName": "Soma Dinda",
+    "ClassName": "Class 4",
+    "SubjectName": "Communication",
+    "PeriodsPerWeekTotal": 15
+  },
+  {
+    "TeacherCode": "RVS154",
+    "TeacherName": "Soma Dinda",
+    "ClassName": "Class 4",
+    "SubjectName": "G.K./Moral",
+    "PeriodsPerWeekTotal": 15
+  },
+  {
+    "TeacherCode": "RVS154",
+    "TeacherName": "Soma Dinda",
+    "ClassName": "Class 5",
+    "SubjectName": "English",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS157",
+    "TeacherName": "Noshin Siddiqui",
+    "ClassName": "Class 3",
+    "SubjectName": "Science",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS157",
+    "TeacherName": "Noshin Siddiqui",
+    "ClassName": "Class 4",
+    "SubjectName": "Science",
+    "PeriodsPerWeekTotal": 15
+  },
+  {
+    "TeacherCode": "RVS159",
+    "TeacherName": "Saksham Sharma",
+    "ClassName": "Class 8",
+    "SubjectName": "Chemistry",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS159",
+    "TeacherName": "Saksham Sharma",
+    "ClassName": "Class 9",
+    "SubjectName": "Chemistry",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS159",
+    "TeacherName": "Saksham Sharma",
+    "ClassName": "Class 10",
+    "SubjectName": "Chemistry",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS159",
+    "TeacherName": "Saksham Sharma",
+    "ClassName": "Class 11",
+    "SubjectName": "Chemistry",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS159",
+    "TeacherName": "Saksham Sharma",
+    "ClassName": "Class 12",
+    "SubjectName": "Chemistry",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS172",
+    "TeacherName": "Swati Budholiya",
+    "ClassName": "Class 1",
+    "SubjectName": "Computer",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS172",
+    "TeacherName": "Swati Budholiya",
+    "ClassName": "Class 1",
+    "SubjectName": "Hindi",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS173",
+    "TeacherName": "Shivendra Bopche",
+    "ClassName": "Class 1",
+    "SubjectName": "Music",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS173",
+    "TeacherName": "Shivendra Bopche",
+    "ClassName": "Class 2",
+    "SubjectName": "Music",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS173",
+    "TeacherName": "Shivendra Bopche",
+    "ClassName": "Class 3",
+    "SubjectName": "Music",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS173",
+    "TeacherName": "Shivendra Bopche",
+    "ClassName": "Class 4",
+    "SubjectName": "Music",
+    "PeriodsPerWeekTotal": 15
+  },
+  {
+    "TeacherCode": "RVS173",
+    "TeacherName": "Shivendra Bopche",
+    "ClassName": "Class 5",
+    "SubjectName": "Music",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS173",
+    "TeacherName": "Shivendra Bopche",
+    "ClassName": "Class 6",
+    "SubjectName": "Music",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS173",
+    "TeacherName": "Shivendra Bopche",
+    "ClassName": "Class 7",
+    "SubjectName": "Music",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "RVS173",
+    "TeacherName": "Shivendra Bopche",
+    "ClassName": "Class 8",
+    "SubjectName": "Music",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "RVS174",
+    "TeacherName": "Ishwari Dubey",
+    "ClassName": "Class 2",
+    "SubjectName": "Library",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS174",
+    "TeacherName": "Ishwari Dubey",
+    "ClassName": "Class 3",
+    "SubjectName": "Library",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS174",
+    "TeacherName": "Ishwari Dubey",
+    "ClassName": "Class 4",
+    "SubjectName": "Library",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS174",
+    "TeacherName": "Ishwari Dubey",
+    "ClassName": "Class 5",
+    "SubjectName": "Library",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 1",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 16
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 1",
+    "SubjectName": "Happy Feet",
+    "PeriodsPerWeekTotal": 8
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 1",
+    "SubjectName": "Karate",
+    "PeriodsPerWeekTotal": 8
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 2",
+    "SubjectName": "Happy Feet",
+    "PeriodsPerWeekTotal": 12
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 2",
+    "SubjectName": "Karate",
+    "PeriodsPerWeekTotal": 8
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 3",
+    "SubjectName": "Happy Feet",
+    "PeriodsPerWeekTotal": 8
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 3",
+    "SubjectName": "Karate",
+    "PeriodsPerWeekTotal": 8
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 4",
+    "SubjectName": "Karate",
+    "PeriodsPerWeekTotal": 6
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 4",
+    "SubjectName": "Robotics",
+    "PeriodsPerWeekTotal": 6
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 5",
+    "SubjectName": "Karate",
+    "PeriodsPerWeekTotal": 4
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 5",
+    "SubjectName": "Sanskrit",
+    "PeriodsPerWeekTotal": 8
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 5",
+    "SubjectName": "Science",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 6",
+    "SubjectName": "Biology",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 6",
+    "SubjectName": "Chemistry",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 6",
+    "SubjectName": "Karate",
+    "PeriodsPerWeekTotal": 2
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 6",
+    "SubjectName": "Sanskrit",
+    "PeriodsPerWeekTotal": 4
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 7",
+    "SubjectName": "Biology",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 7",
+    "SubjectName": "Chemistry",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 9",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 8
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 10",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 8
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 11",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 8
+  },
+  {
+    "TeacherCode": "RVS188",
+    "TeacherName": "Kajal Shrivastava",
+    "ClassName": "Class 12",
+    "SubjectName": "Games",
+    "PeriodsPerWeekTotal": 8
+  },
+  {
+    "TeacherCode": "RVS189",
+    "TeacherName": "Neha Guha",
+    "ClassName": "Class 9",
+    "SubjectName": "Commercial Studies",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS189",
+    "TeacherName": "Neha Guha",
+    "ClassName": "Class 10",
+    "SubjectName": "Commercial Studies",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS189",
+    "TeacherName": "Neha Guha",
+    "ClassName": "Class 11",
+    "SubjectName": "Business Studies",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS189",
+    "TeacherName": "Neha Guha",
+    "ClassName": "Class 12",
+    "SubjectName": "Business Studies",
+    "PeriodsPerWeekTotal": 0
+  },
+  {
+    "TeacherCode": "RVS190",
+    "TeacherName": "Soumya Nair",
+    "ClassName": "Class 9",
+    "SubjectName": "English",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS190",
+    "TeacherName": "Soumya Nair",
+    "ClassName": "Class 10",
+    "SubjectName": "English",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS190",
+    "TeacherName": "Soumya Nair",
+    "ClassName": "Class 11",
+    "SubjectName": "English",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS190",
+    "TeacherName": "Soumya Nair",
+    "ClassName": "Class 12",
+    "SubjectName": "English",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "RVS195",
+    "TeacherName": "Anjali Singh Chauhan",
+    "ClassName": "Class 1",
+    "SubjectName": "E.V.S.",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVS195",
+    "TeacherName": "Anjali Singh Chauhan",
+    "ClassName": "Class 2",
+    "SubjectName": "Communication",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVT095",
+    "TeacherName": "Aleena Khan",
+    "ClassName": "Class 1",
+    "SubjectName": "Communication",
+    "PeriodsPerWeekTotal": 20
+  },
+  {
+    "TeacherCode": "RVT095",
+    "TeacherName": "Aleena Khan",
+    "ClassName": "Class 3",
+    "SubjectName": "Mathematics",
+    "PeriodsPerWeekTotal": 32
+  },
+  {
+    "TeacherCode": "SPS26",
+    "TeacherName": "Leena Jain",
+    "ClassName": "Class 6",
+    "SubjectName": "G.K./Moral",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "SPS26",
+    "TeacherName": "Leena Jain",
+    "ClassName": "Class 6",
+    "SubjectName": "History \u0026 Civics",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "SPS26",
+    "TeacherName": "Leena Jain",
+    "ClassName": "Class 7",
+    "SubjectName": "History \u0026 Civics",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "SPS26",
+    "TeacherName": "Leena Jain",
+    "ClassName": "Class 8",
+    "SubjectName": "History \u0026 Civics",
+    "PeriodsPerWeekTotal": 5
+  },
+  {
+    "TeacherCode": "SPS26",
+    "TeacherName": "Leena Jain",
+    "ClassName": "Class 9",
+    "SubjectName": "History \u0026 Civics",
+    "PeriodsPerWeekTotal": 10
+  },
+  {
+    "TeacherCode": "SPS26",
+    "TeacherName": "Leena Jain",
+    "ClassName": "Class 10",
+    "SubjectName": "History \u0026 Civics",
+    "PeriodsPerWeekTotal": 10
+  }
+]
